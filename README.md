@@ -119,13 +119,15 @@ It contains:
 
 ## 3. Pre-tridagon T&E(2) collections
 The two puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the pre-tridagon era, when "hardest" was understood as "with the highest SER". All these puzzles have BxB ≤ 7 (and only 3 have BxB = 7). <br>
+
 ### 3.1. The eleven-26370-TE2 folder
+It's about  a collection of 26,370 minimal puzzles in T&E(2).
 In addition to the usual files, it contains:
 * the "sudo-eleven.pdf" file = [eleven 2011a];
 * the document [eleven 2011b], in two parts;
 * a "degen-cycl-trid-list.clp" file containing the list of puzzles with a degenerate-cyclicl tridagon;
 * an "Imp630-list.clp" file containing the list of puzzles with a some Imp630 pattern;
-* B2B,..., B6B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global RESULTS.clp file of the eleven-26370-TE2 folder;
+* B2B,..., B6B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global "RESULTS.clp" file of the eleven-26370-TE2 folder;
 * a B6B+ folder for the calculations used in section 6.2.1 of [HCCS2];
 * a Sample40 folder for the calculations used in section 6.2.2 of [HCCS2];
 * a "BxB-PBCS-Table-11-2" folder for the BxB results computed with [SudoRules] for a sublist of 1,278 puzzles were published as Table 11.2 and followig remarks in [PBCS]; they were also used to check that the [SudoRules] and [SHC] results coincided.<br>
@@ -133,8 +135,14 @@ In addition to the usual files, it contains:
 The detailed BxB results given here for the full list of puzzles were used in Table 2.2 of [HCCS], an extension of Table 11.2 of [PBCS].
  
 ### 3.2. The ph2010-3103972-TE2 folder
+It's about a collection of 3,103,972 minimal puzzles in T&E(2) (except one in T&E(1) that shouldn't be in the collection).
 In addition to the usual files, it contains:
-* B2B,..., B7B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global RESULTS.clp file of the ph2010-3103972-TE2 folder.
+* B2B,..., B7B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global "RESULTS.clp" file of the ph2010-3103972-TE2 folder.
+
+Because they are too large for the GitHub limit (25 MB):
+* the "puzzles.txt" file has been split into 20 files (of constant SER) in the PUZZLES sub-directory, in which an "assemble.txt" file makes a script for assembing them, to be run from the PUZZLES sub-directory; (alternatively, it can be loaded from [ph2010];
+* the "puzzles-expands.txt" file must be recomputed, with the SHC, if needed;
+* the "mdel.txt" file has been split into two parts, "mdel-a.txt" and "mdel-b.txt", to be assembled in this order.
 
 <br><br><br>
 
