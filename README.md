@@ -4,27 +4,27 @@
 <br><br>
 
 ## 1. Introduction and general background
-The classification results in this repository rely on many concepts introduced in the publications listed at the end of this README file. The purpose of this introduction is not to summarise them.<br>
+The classification results in this repository rely on many concepts introduced in the publications listed at the end of this README file, the most general of which is T&E-depth. <br>
 
 This repository analyses various puzzle collections according to their main universal T&E-depth classification, according to the relevant universal B or BxB sub-classifications and/or according to the addition of various exotic patterns.<br>
-Some collections also contain other more elementary data (such as number of clues or of candidates) supporting the results reported in [HCCS2].<br>
+Some collections also contain other more elementary data (such as number of clues or of candidates). The main purpose is to report all the details of theresults summarised in [HCCS2] and/or [UNMR].<br>
 However, due to its special importance in any approach to unbiased classification and due to the volume of data it contains, the controlled-bias collection of puzzles in T&E(1) remains in a separate repository: (https://github.com/denis-berthier/Controlled-bias_Sudoku_generator_and_collection).<br>
 
 Note that most of the results appearing in this repository were obtained with the CSP-Rules software (https://github.com/denis-berthier/CSP-Rules-V2.1) and involved thousands of hours of processor time.<br>
 
-This repository replaces and largely extends two previous repositories (https://github.com/denis-berthier/Classifications-of-TE3-Sudokus and https://github.com/denis-berthier/Classification-of-TE2-Sudokus) that will soon be archived. In particular, it includes all the data supporting the results reported in [HCCS2].
+This repository replaces and largely extends two previous repositories (https://github.com/denis-berthier/Classifications-of-TE3-Sudokus and https://github.com/denis-berthier/Classification-of-TE2-Sudokus) that will soon be archived.
 <br><br>
 
 
 ### 1.1. The T&E(T, n) procedure and the T&E-depth of a puzzle
-The T&E(T, n) procedure has been formally defined in my books [CRT] and [PBCS] for any finite binary Constraint Satisfaction Problem (CSP), for any integer n≥0 and for any resolution theory T with the confluence property.<br>
-It implies _a universal T&E-depth classification of all the instances of all the finite binary Constraint Satisfaction Problems_.<br>
+The T&E(T, n) procedure has been formally defined in my books [CRT] and [PBCS] for any finite binary Constraint Satisfaction Problem (CSP), for any integer n≥0 and for any resolution theory T with the confluence property. The purpose of this section is not to introduce it: see [BRT] or [PBCS].<br>
+The T&E(T, n) procedure implies the existence of _a universal T&E-depth classification of all the instances of all the finite binary Constraint Satisfaction Problems_.<br>
 
 Here, I shall always take T to be the universal basic resolution theory BRT, consisting of only two resolution rules: the elimination of candidates in direct contradiction with decided values and the Singles rule. I shall therefore omit the parameter T and write T&E(1), T&E(2)...<br>
 I shall also consider only the 9x9 Sudoku CSP and "puzzle" will always mean "9x9 Sudoku puzzle".<br>
 
 Until March 2022, all the known puzzles were in T&E(0, 1 or 2) [and even, for those strictly in T&E(2), in the part of it identified in the referenced publications as BxB ≤ 7].<br>
-Notice that puzzles in T&E(2) are known to be extremely rare wrt puzzles in T&E(1) and puzzles in T&E(3) are probably extremely rare wrt puzzles in T&E(2).
+Notice that puzzles in T&E(2) are known to be extremely rare with respect to puzzles in T&E(1) and puzzles in T&E(3) are probably extremely rare with respect to puzzles in T&E(2).
 
 But in March 2022, while the search for the "hardest" puzzles had been running almost since the first days of Sudoku, Philip Newman (alias "mith" on the Sudoku forums), a famous creator of remarkable Sudoku puzzles, found a very special puzzle ("Loki") : http://forum.enjoysudoku.com/post317749.html?hilit=loki#p317749. Loki was first noticed as a very rare object, the 10th puzzle to have SER (Sudoku Explainer Rating) 11.9 - the highest known SER for a puzzle at that time (and still now).<br>
 
@@ -35,30 +35,34 @@ This led to a sudden surge in the number of potentially "hardest puzzles", all i
 Later, this also led other puzzle diggers to find puzzles in T&E(2) above the previous B7B threshold.<br><br>
 
 ### 1.2 General contents of this repository
-Each folder has a "RESULTS.clp" file and a certain number of ".txt" files; all the latter have the same length (unless otherwise mentioned). The same names are used consistently in all the folders. <br>
+Each folder has a "RESULTS.clp" file and a certain number of ".txt" files; all the latter have the same length (unless otherwise mentioned). The same file names are used consistently in all the folders. <br>
 All the files have Unix line endings. (You may have to change the line endings if you are using Windows.)<br>
 Note that some folders may have sub-folders, corresponding to sub-collections that will be further described wherever relevant.<br>
 
 #### File names common to all the folders 
-(only the relevant files will be present in each folder)<br>
+Only the relevant files will be present in each folder.<br>
+Additional files may appear in some folders.<br>
 * the "RESULTS.clp" file contains the commands for repeating all the computations and the associated results;
 * the "puzzles.txt" file contains the puzzles in the collection dealt with in the folder; it is the common reference for all the other files in the folder;
 * the "nb-clues.txt" file contains the numbers of clues at the start;
 * the "nb-cands.txt" file contains the numbers of candidates at the start;
+* the "puzzles-expands.txt" file contains the BRT-expansions of the puzzles in "puzzles.txt"
 * the "nb-clues-after-BRT.txt" file contains the numbers of clues after BRT has been applied;
 * the "nb-cands-after-BRT.txt" file contains the numbers of candidates after BRT has been applied;
 * the "density.txt" file contains the densities of the underlying graph of candidates at the start;
 * the "mdel.txt" file contains the mean number of candidates deleted after BRT per clue at the start;
-* the "W-ratings.txt" file contains the corresponding W-ratings; 
-* the "gW-ratings.txt" file contains the corresponding gW-ratings; 
-* the "B-ratings.txt" file contains the corresponding B-ratings; 
-* the "BxB-classif.txt" file contains the corresponding BxB classifications; 
+* for puzzles in T&E(1), the "W-ratings.txt" file contains the corresponding W-ratings; 
+* for puzzles in T&E(1), the "gW-ratings.txt" file contains the corresponding gW-ratings; 
+* for puzzles in T&E(1), the "B-ratings.txt" file contains the corresponding B-ratings; 
+* for puzzles in T&E(1), the "gB-ratings.txt" file contains the corresponding gB-ratings; 
+* for puzzles in T&E(2), the "BxB-classif.txt" file contains the corresponding BxB classifications; 
 * the "TE-depth.txt" file contains the corresponding T&E-depths;
 * the "SER.txt" file contains the corresponding Sudoku Explainer ratings.
 <br><br><br>
 
 
 ## 2. T&E(3) collections
+There is currently only one collection of puzzles in T&E(3), namely [mith-TE3].
 ### 2.1. The mith-158276-TE3 folder
 The puzzle collection [mith-TE3] dealt with in this folder consists of 158,276 BRT-expansions of minimal puzzles in T&E(3).
 
@@ -71,18 +75,18 @@ The guardians of impossible patterns allow to conclude that an ORk relation (i.e
 
 
 #### More impossible patterns
-Some time after the discovery of the tridagon, "eleven" found more 3-digit impossible patterns, indeed 630 of them in two bands (or two stacks). They were originally announced here: http://forum.enjoysudoku.com/chromatic-patterns-t39885-71.html. <br>
+Some time after the discovery of the tridagon pattern, "eleven" found more 3-digit impossible patterns, indeed 630 of them in two bands (or two stacks). They were originally announced here: http://forum.enjoysudoku.com/chromatic-patterns-t39885-71.html. <br>
 As I wanted to see if and how such a large number of patterns could be used in practice, I wrote a rule generator that could transform each pattern into a CSP-Rule rule that asserts a corresponding OR-relation.<br>
 By analysing how useful such rules were when combined with OR-chains, I found 4 small subsets of patterns that had almost the same resolution power as the full set of 630; they are named Select1, Select2,...<br>
 
 
-#### What is there in this repository?
+#### What is there in this folder?
 All the files mentioned below have 158,276 lines.<br>
-The files with names nort mentioned in section 1.2 contain the classifications of these puzzles wrt to the corresponding sets of resolution rules:
+The files with names not mentioned in section 1.2 contain the classifications of these puzzles wrt to the corresponding sets of resolution rules:
 * "Trid-OR5W-levels.txt" contains  the classifications wrt SFin + W + Trid-OR5W;
 * "Trid-OR5gW-levels.txt" contains  the classifications wrt SFin + gW + Trid-OR5gW;
 * "Select1-OR5W-levels.txt" contains  the classifications wrt SFin + W + (Trid+Select1)-OR5W;
-* "Select2-OR5W-levels.txt" contains  the classifications wrt SFin + W + Trid+Select2)-OR5W.<br>
+* "Select2-OR5W-levels.txt" contains  the classifications wrt SFin + W + (Trid+Select2)-OR5W.<br>
 
 Comparison of ratings in the above files can be done within SudoRules, using e.g. one of the functions "compare-levels-in-\<k\>-files" (where \<k\>=2, 3 or 4).<br>
 Details about the meaning of all this can be found in the last two chapters of [UMRN].<br>
@@ -93,7 +97,8 @@ There are many ways you can use the above results to find interesting examples o
 * select puzzles solvable using only the most basic T&E(3) pattern, i.e. Tridagons, according to their SFin + W + Trid-OR5W level,
 * select puzzles solvable using only Tridagons, but for which ORk-gchains are useful, by choosing those that have a Trid-OR5gW-level lower than their Trid-OR5W-level,
 * select puzzles solvable in one of the Select subsets of impossible patterns, but not in the the next smaller one, by comparing their different levels,
-* select puzzles requiring very rare impossible patterns by choosing those with their Imp630-OR5W-level lower than their Select2-OR5W-level...<br><br>
+* select puzzles requiring very rare impossible patterns by choosing those with their Imp630-OR5W-level lower than their Select2-OR5W-level...<br>
+
 
 #### 2.1.1 The Sample500 sub-folder
 It contains:
@@ -101,9 +106,10 @@ It contains:
 - the 4844 minimal puzzles that can be generated from  them,
 - and elementatry statistics for these minimals.
 
+
 #### 2.1.2 The Sample1000 sub-folder
 It contains:
-- a random sample of 1000 puzzles from the full collection of min-expands, 
+- a random sample of 1,000 puzzles from the full collection of min-expands, 
 - the 2101 minimal puzzles that can be generated from  them,
 - and elementatry statistics for these minimals.
 
@@ -111,29 +117,48 @@ It contains:
 
 
 
-## 3. T&E(2) collections
-The puzzle collections dealt with in this folder consist of puzzles in T&E(2), some from the pre-tridagon era, some from the post-tridagon era.
-### 3.1. The eleven-26370-TE2 pre-tridagon folder
-### 3.2. The ph2010-3103972-TE2 pre-tridagon folder
-### 3.3 The 
+## 3. Pre-tridagon T&E(2) collections
+The two puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the pre-tridagon era, when "hardest" was understood as "with the highest SER". All these puzzles have BxB ≤ 7 (and only 3 have BxB = 7). <br>
+### 3.1. The eleven-26370-TE2 folder
+In addition to the usual files, it contains:
+* the "sudo-eleven.pdf" file = [eleven 2011a];
+* the document [eleven 2011b], in two parts;
+* a "degen-cycl-trid-list.clp" file containing the list of puzzles with a degenerate-cyclicl tridagon;
+* an "Imp630-list.clp" file containing the list of puzzles with a some Imp630 pattern;
+* B2B,..., B6B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global RESULTS.clp file of the eleven-26370-TE2 folder;
+* a B6B+ folder for the calculations used in section 6.2.1 of [HCCS2];
+* a Sample40 folder for the calculations used in section 6.2.2 of [HCCS2];
+* a "BxB-PBCS-Table-11-2" folder for the BxB results computed with [SudoRules] for a sublist of 1,278 puzzles were published as Table 11.2 and followig remarks in [PBCS]; they were also used to check that the [SudoRules] and [SHC] results coincided.<br>
 
+The detailed BxB results given here for the full list of puzzles were used in Table 2.2 of [HCCS], an extension of Table 11.2 of [PBCS].
+ 
+### 3.2. The ph2010-3103972-TE2 folder
+In addition to the usual files, it contains:
+* B2B,..., B7B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global RESULTS.clp file of the ph2010-3103972-TE2 folder.
+
+<br><br><br>
+
+
+
+## 4. Post-tridagon T&E(2) collections
+The puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the post-tridagon era.
 
 
 <br><br><br>
-## 4. Collections with extreme numbers of clues
+## 5. Collections with extreme numbers of clues
 The puzzle collections dealt with in this folder 
 
 
 <br><br><br>
-## 5. License
+## 6. License
 Strictly speaking, there is litle software in this repository.<br>
 Puzzles and puzzle collections remain the intellectual property of their creators.<br>
 Puzzle solutions and classifications are my intellectual property.<br>
 All this means that any mention of the above should be accompanied by the relevant references.<br>
 <br><br>
 
-## 6. References<br>
-(A copy of the folloiwng references is present in the "Publications" folder of CSP-Rules. <br>Each of them can also be downloaded from ResearchGate: https://www.researchgate.net/profile/Denis-Berthier/research)<br>
+## 7. References<br>
+The following artciles and books can be downloaded in pdf form from ResearchGate: https://www.researchgate.net/profile/Denis-Berthier/research). Most of them are also present in the "Publications" folder of CSP-Rules. <br>
 ### Articles<br>
 * [Berthier 2008a]: BERTHIER D., From Constraints to Resolution Rules, Part I: Conceptual Framework, International Joint Conferences on Computer, Information, Systems Sciences and Engineering (CISSE 08), December 5-13, 2008, Springer. Published as a chapter of Advanced Techniques in Computing Sciences and Software Engineering, Khaled Elleithy Editor, pp. 165-170, Springer, 2010.<br>
 * [Berthier 2008b]: BERTHIER D., From Constraints to Resolution Rules, Part II: chains, braids, confluence and T&E, International Joint Conferences on Computer, Information, Systems Sciences and Engineering (CISSE 08), December 5-13, 2008, Springer. Published as a chapter of Advanced Techniques in Computing Sciences and Software Engineering, Khaled Elleithy Editor, pp. 171-176, Springer, 2010.<br>
@@ -154,7 +179,11 @@ All this means that any mention of the above should be accompanied by the releva
 * [PBCS2]: BERTHIER D., Pattern-Based Constraint Satisfaction and Logic Puzzles (Second Edition), Lulu Press, November 2015.<br>
 * [PBCS3]: BERTHIER D., Pattern-Based Constraint Satisfaction and Logic Puzzles (Third Edition), Lulu Press, November 2021.<br>
 * [PBCS]: any of [PBCS1], [PBCS2] or [PBCS3].<br>
-* [UMRN]: BERTHIER D., User Manual and Research Notebooks for CSP-Rules, Lulu Press, July 2023.<br><br>
+* [UMRN]: BERTHIER D., User Manual and Research Notebooks for CSP-Rules, Lulu Press, July 2023.<br>
+
+### Other <br>
+* [eleven 2011a]: http://forum.enjoysudoku.com/the-making-of-a-gotchi-a-simple-way-to-find-extreme-sudokus-t30150.html<br>
+* [eleven 2011b]: 26,370 T&E(2) puzzles, original broken link: https://sites.google.com/site/sudoeleven/ 08/07/2011<br>
 
 ### Puzzle collections <br>
 
