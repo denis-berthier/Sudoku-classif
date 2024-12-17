@@ -4,13 +4,14 @@
 <br><br>
 
 ## 1. Introduction and general background
-The classification results in this repository rely on many concepts introduced in the publications listed at the end of this README file, the most general of which is T&E-depth. <br>
+The classification results in this repository rely on many concepts introduced in the publications listed at the end of this README file. <br>
+They have been used to fill in the tables in [HCCS2] and/or [UMNR].
 
 This repository analyses various puzzle collections according to their main universal T&E-depth classification, according to the relevant universal B or BxB sub-classifications and/or according to the addition of various exotic patterns.<br>
-Some collections also contain other more elementary data (such as number of clues or of candidates). The main purpose is to report all the details of theresults summarised in [HCCS2] and/or [UNMR].<br>
+Most collections also contain more elementary data (such as number of clues or of candidates) allowing to compute basic statistics.<br>
 However, due to its special importance in any approach to unbiased classification and due to the volume of data it contains, the controlled-bias collection of puzzles in T&E(1) remains in a separate repository: (https://github.com/denis-berthier/Controlled-bias_Sudoku_generator_and_collection).<br>
 
-Note that most of the results appearing in this repository were obtained with the CSP-Rules software (https://github.com/denis-berthier/CSP-Rules-V2.1) and involved thousands of hours of processor time.<br>
+Note that most of the results appearing in this repository were obtained with the CSP-Rules software (https://github.com/denis-berthier/CSP-Rules-V2.1) and involved thousands of hours of processor time. Some of the results (T&E-depths, B-ratings, BxB-classif) were obtained with the SHC software (https://github.com/denis-berthier/Sudoku_Hierarchical_Classifier)<br>
 
 This repository replaces and largely extends two previous repositories (https://github.com/denis-berthier/Classifications-of-TE3-Sudokus and https://github.com/denis-berthier/Classification-of-TE2-Sudokus) that will soon be archived.
 <br><br>
@@ -35,13 +36,14 @@ This led to a sudden surge in the number of potentially "hardest puzzles", all i
 Later, this also led other puzzle diggers to find puzzles in T&E(2) above the previous B7B threshold.<br><br>
 
 ### 1.2 General contents of this repository
+Each folder corresponds to a specific collection of puzzles.<br>
 Each folder has a "RESULTS.clp" file and a certain number of ".txt" files; all the latter have the same length (unless otherwise mentioned). The same file names are used consistently in all the folders. <br>
 All the files have Unix line endings. (You may have to change the line endings if you are using Windows.)<br>
 Note that some folders may have sub-folders, corresponding to sub-collections that will be further described wherever relevant.<br>
 
 #### File names common to all the folders 
 Only the relevant files will be present in each folder.<br>
-Additional files may appear in some folders.<br>
+Besides the following ones, additional files may appear in some folders.<br>
 * the "RESULTS.clp" file contains the commands for repeating all the computations and the associated results;
 * the "puzzles.txt" file contains the puzzles in the collection dealt with in the folder; it is the common reference for all the other files in the folder;
 * the "nb-clues.txt" file contains the numbers of clues at the start;
@@ -51,13 +53,13 @@ Additional files may appear in some folders.<br>
 * the "nb-cands-after-BRT.txt" file contains the numbers of candidates after BRT has been applied;
 * the "density.txt" file contains the densities of the underlying graph of candidates at the start;
 * the "mdel.txt" file contains the mean number of candidates deleted after BRT per clue at the start;
-* for puzzles in T&E(1), the "W-ratings.txt" file contains the corresponding W-ratings; 
-* for puzzles in T&E(1), the "gW-ratings.txt" file contains the corresponding gW-ratings; 
-* for puzzles in T&E(1), the "B-ratings.txt" file contains the corresponding B-ratings; 
-* for puzzles in T&E(1), the "gB-ratings.txt" file contains the corresponding gB-ratings; 
-* for puzzles in T&E(2), the "BxB-classif.txt" file contains the corresponding BxB classifications; 
-* the "TE-depth.txt" file contains the corresponding T&E-depths;
-* the "SER.txt" file contains the corresponding Sudoku Explainer ratings.
+* the "SER.txt" file contains the Sudoku Explainer ratings;
+* the "TE-depth.txt" file contains the T&E depths;
+* for puzzles in T&E(1), the "W-ratings.txt" file contains the W ratings; 
+* for puzzles in T&E(1), the "gW-ratings.txt" file contains the gW ratings; 
+* for puzzles in T&E(1), the "B-ratings.txt" file contains the B ratings; 
+* for puzzles in T&E(1), the "gB-ratings.txt" file contains the gB ratings; 
+* for puzzles in T&E(2), the "BxB-classif.txt" file contains the BxB classifications.
 <br><br><br>
 
 
@@ -160,12 +162,18 @@ The puzzle collections dealt with in this folder are characterised by having a f
 ### 5.1. the Royle-49158-17c folder
 It's about the full [c18] collection of 49,158 minimal puzzles with 17 clues; they are all in T&E(0) or T&E(1). This folder contains only the "standard" files.
 
-### 5.2. the JPF-2000000-18c folder
-It's about a collection [c19] of 200,000 minimal puzzles with 19 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
+### 5.2. the Mat-2000000-18c folder
+It's about a collection [c18] of 200,000 minimal puzzles with 19 clues; they are almost all all in T&E(0) or T&E(1) (only 4 in T&E(2)). In addition to the "standard" files, this folder contains:
+* a "PUZZLES" sub-folder: because the "puzzles.txt" file wolub be too large for GitHub, it is  split into 7 files "puzzles-a.txt" ... "puzzles-g.txt" in this sub-folder; if needed, assemble them in the same way as for the ph2012 case;
+* the "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles;
+* a "highest-SER" sub-folder with the highest SER puzzles among the 2,000,000;
+* a "TE2-780-Blue" sub-folder with 780 18-clue puzzles due to Blue, all in T&E(2), with BxB = 1 or 2.<br>
+The latter two show that, among 18-clue puzzles, even the highest SER ones don't have BxB larger than 2.
 
 
 ### 5.3. the dob-2014078-38c folder
-It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
+It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). 
+
 
 
 ### 5.4. the dob-2650-39c folder
