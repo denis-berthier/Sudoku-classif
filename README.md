@@ -114,9 +114,7 @@ It contains:
 - a random sample of 1,000 puzzles from the full collection of min-expands, 
 - the 2101 minimal puzzles that can be generated from  them,
 - and elementatry statistics for these minimals.
-
 <br><br><br>
-
 
 
 ## 3. Pre-tridagon T&E(2) collections
@@ -142,20 +140,17 @@ In addition to the usual files, it contains:
 * B2B,..., B7B sub-folders for elementary statistics restricted to the corresponding sub-collections of puzzles; these local results are reported in the global "RESULTS.clp" file of the ph2010-3103972-TE2 folder.
 
 Because they are too large for the GitHub limit (25 MB):
-* the "puzzles.txt" file has been split into 20 files (of constant SER) in the PUZZLES sub-directory, in which an "assemble.txt" file makes a script for assembing them, to be run from the PUZZLES sub-directory; (alternatively, it can be loaded from [ph2010];
+* the "puzzles.txt" file has been split into 20 files (of constant SER) in the PUZZLES sub-directory, in which an "assemble.txt" file makes a Unix script for assembing them, to be run from the PUZZLES sub-directory; (alternatively, it can be loaded from [ph2010];
 * the "puzzles-expands.txt" file must be recomputed, with the SHC, if needed;
 * the "mdel.txt" file has been split into two parts, "mdel-a.txt" and "mdel-b.txt", to be assembled in this order.
-
 <br><br><br>
-
-
 
 
 ## 4. Post-tridagon T&E(2) collections
 The puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the post-tridagon era.
-
-
 <br><br><br>
+
+
 ## 5. Collections with extreme numbers of clues
 The puzzle collections dealt with in this folder are characterised by having a fixed number of clues, either among the lowest possible or the highest known ones.<br>
 
@@ -164,29 +159,31 @@ It's about the full [c18] collection of 49,158 minimal puzzles with 17 clues; th
 
 ### 5.2. the Mat-2000000-18c folder
 It's about a collection [c18] of 200,000 minimal puzzles with 19 clues; they are almost all all in T&E(0) or T&E(1) (only 4 in T&E(2)). In addition to the "standard" files, this folder contains:
-* a "PUZZLES" sub-folder: because the "puzzles.txt" file wolub be too large for GitHub, it is  split into 7 files "puzzles-a.txt" ... "puzzles-g.txt" in this sub-folder; if needed, assemble them in the same way as for the ph2012 case;
-* the "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles;
+* a "PUZZLES" sub-folder: because the "puzzles.txt" file would be too large for GitHub, it is  split into 7 files "puzzles-a.txt" ... "puzzles-g.txt" in this sub-folder; if needed, assemble them by running the "assemble.txt" Unix script from the "PUZZLES" folder;
+* a "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles;
 * a "highest-SER" sub-folder with the highest SER puzzles among the 2,000,000;
 * a "TE2-780-Blue" sub-folder with 780 18-clue puzzles due to Blue, all in T&E(2), with BxB = 1 or 2.<br>
 The latter two show that, among 18-clue puzzles, even the highest SER ones don't have BxB larger than 2.
 
 
 ### 5.3. the dob-2014078-38c folder
-It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). 
-
+It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). In addition to the "standard" files, this folder contains:
+* a "PUZZLES" sub-folder: because the "puzzles.txt" file would be too large for GitHub, it is  split into 7 files "puzzles-a.txt" ... "puzzles-g.txt" in this sub-folder; if needed, assemble them by running the "assemble.txt" Unix script from the "PUZZLES" folder;
+* a "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles.
 
 
 ### 5.4. the dob-2650-39c folder
-It's about the collection [c39] of the 2,650 currently known minimal puzzles with 39 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
-
-
+It's about the collection [c39] of the 2,650 currently known minimal puzzles with 39 clues; they are all in T&E(1) or T&E(2). In addition to the "standard" files usefukl for basic statistics, this folder has two files, one for non-degenrate tridagons and one for degenerate-cyclic tridagons.
 <br><br><br>
+
+
 ## 6. License
 Strictly speaking, there is litle software in this repository.<br>
 Puzzles and puzzle collections remain the intellectual property of their creators.<br>
 Puzzle solutions and classifications are my intellectual property.<br>
-All this means that any mention of the above should be accompanied by the relevant references.<br>
-<br><br>
+All this means that any mention of the above should be accompanied by the relevant references.
+<br><br><br>
+
 
 ## 7. References<br>
 The following artciles and books can be downloaded in pdf form from ResearchGate: https://www.researchgate.net/profile/Denis-Berthier/research). Most of them are also present in the "Publications" folder of CSP-Rules. <br>
