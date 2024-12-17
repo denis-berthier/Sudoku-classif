@@ -1,0 +1,9 @@
+
+
+cat puzzles-a.txt >> ../puzzles.txt
+cat puzzles-b.txt >> ../puzzles.txt
+cat puzzles-c.txt >> ../puzzles.txt
+cat puzzles-d.txt >> ../puzzles.txt
+cat puzzles-e.txt >> ../puzzles.txt
+cat puzzles-f.txt >> ../puzzles.txt
+cat puzzles-g.txt >> ../puzzles.txt
