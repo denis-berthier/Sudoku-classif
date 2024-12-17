@@ -23,21 +23,21 @@
 
 ;;; before BRT
 (record-nb-cands-at-start
-    (str-cat ?*18c* "puzzles.txt"
-    (str-cat ?*18c* "nb-cands.txt"
+    (str-cat ?*18c* "puzzles.txt")
+    (str-cat ?*18c* "nb-cands.txt")
     2000000
 )
 
 (file-min-value
-    (str-cat ?*18c* "nb-cands.txt"
+    (str-cat ?*18c* "nb-cands.txt")
 )
 min = 271
 (file-max-value
-    (str-cat ?*18c* "nb-cands.txt"
+    (str-cat ?*18c* "nb-cands.txt")
 )
 max = 317
 (file-mean-and-sd
-    (str-cat ?*18c* "nb-cands.txt"
+    (str-cat ?*18c* "nb-cands.txt")
 )
 (290.398991300504 5.18602399870138)
 
