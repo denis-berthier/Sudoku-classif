@@ -148,13 +148,28 @@ Because they are too large for the GitHub limit (25 MB):
 
 
 
+
 ## 4. Post-tridagon T&E(2) collections
 The puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the post-tridagon era.
 
 
 <br><br><br>
 ## 5. Collections with extreme numbers of clues
-The puzzle collections dealt with in this folder 
+The puzzle collections dealt with in this folder are characterised by having a fixed number of clues, either among the lowest possible or the highest known ones.<br>
+
+### 5.1. the Royle-49158-17c folder
+It's about the full [c18] collection of 49,158 minimal puzzles with 17 clues; they are all in T&E(0) or T&E(1). This folder contains only the "standard" files.
+
+### 5.2. the JPF-2000000-18c folder
+It's about a collection [c19] of 200,000 minimal puzzles with 19 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
+
+
+### 5.3. the dob-2014078-38c folder
+It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
+
+
+### 5.4. the dob-2650-39c folder
+It's about the collection [c39] of the 2,650 currently known minimal puzzles with 39 clues; they are all in T&E(1) or T&E(2). This folder contains only the "standard" files.
 
 
 <br><br><br>
