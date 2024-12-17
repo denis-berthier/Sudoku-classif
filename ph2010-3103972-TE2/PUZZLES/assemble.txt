@@ -1,0 +1,25 @@
+
+
+
+
+
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.9-11.2.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.1.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.0a.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.0b.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.0c.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.0d.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-11.0e.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.9a.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.9b.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.8a.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.8b.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.7.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.6a.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.6b.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.5a.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.5b.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.5c.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.5d.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.4.txt >> ../puzzles2.txt
+cat /Users/berthier/Projects/CSP-Rules/SUDCL/ph2010-3103972-TE2/PUZZLES/puzzles-10.3.txt >> ../puzzles2.txt
