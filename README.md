@@ -152,7 +152,8 @@ The three puzzle collections dealt with in this folder consist of puzzles in T&E
 
 ### 4.1. The Paquita-2023-sept-dec-TE2 folder
 In addition to the usual files, there are a "tridagon-list.clp" file and a "degen-cycl-trid-list.clp" file. Load them into SUdoRules to get access to global variables named ?\*tridagon-list\* and ?\*degenerate-cyclic-tridagon-list\*
-### 4.2. The Monhard-until-2023-08-15-TE2+3 folder
+### 4.2. The Monhard-until-2023-08-15-TE23 folder
+In addition to the usual files, there are two sub-folders, 
 ### 4.3. The Coloin-2024-09-03-B7B+ folder
 <br><br><br>
 
