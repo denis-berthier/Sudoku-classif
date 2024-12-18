@@ -147,7 +147,13 @@ Because they are too large for the GitHub limit (25 MB):
 
 
 ## 4. Post-tridagon T&E(2) collections
-The puzzle collections dealt with in this folder consist of puzzles in T&E(2) from the post-tridagon era.
+The three puzzle collections dealt with in this folder consist of puzzles in T&E(2), with large BxB classifications, from the post-tridagon era. <br>
+(The Monhard-until-2023-08-15-TE2+3 collection also has T&E(3) puzzles, but they bring no new results with respect to the mith-158276-TE3 collection.)
+
+### 4.1. The Paquita-2023-sept-dec-TE2 folder
+In addition to the usual files, there are a "tridagon-list.clp" file and a "degen-cycl-trid-list.clp" file. Load them into SUdoRules to get access to global variables named ?\*tridagon-list\* and ?\*degenerate-cyclic-tridagon-list\*
+### 4.2. The Monhard-until-2023-08-15-TE2+3 folder
+### 4.3. The Coloin-2024-09-03-B7B+ folder
 <br><br><br>
 
 
