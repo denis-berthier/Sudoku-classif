@@ -148,7 +148,7 @@ b = 288.783667805872
 cd /Users/berthier/Projects/CSP-Rules/SHC/SHC5
 java -jar SHC.jar BxB -max-length 13 -input /Users/berthier/Projects/CSP-Rules-Results/SudoRules-Results/HARDEST-post-trid/Paquita-TE2-2023-sept-dec/puzzles.txt -output /Users/berthier/Projects/CSP-Rules-Results/SudoRules-Results/HARDEST-post-trid/Paquita-TE2-2023-sept-dec/BxB.txt
 
-;;; get the SER:
+;;; get the SER from the puzzles file:
 (deffunction extract-SER (?puzzles-file ?SER-file ?len)
     (open ?puzzles-file "puzzles-file-symb" "r")
     (open ?SER-file "SER-file-symb" "w")
@@ -240,7 +240,7 @@ b = 11.7524270338892
 ;;; tridagons
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; check trid and degen-cycl-trid on the whole file of 81,139 TE2 puzzles:
+;;; check trid and degen-cycl-trid on the whole file of 81,139 puzzles:
 ;;; computations done in several stages:
 
 (mute-print-options)
@@ -304,8 +304,8 @@ FALSE
 
 
 
-;;; The lists are available in files "tridagon-list.clp" and "degen-cycl-trid-list.clp"
-;;; You can get them by loading thses files:
+;;; The final lists are available in files "tridagon-list.clp" and "degen-cycl-trid-list.clp"
+;;; You can get them by loading these files:
 (load (str-cat ?*TE2-Paq* "tridagon-list.clp"))
 (load (str-cat ?*TE2-Paq* "degen-cycl-trid-list.clp"))
 
