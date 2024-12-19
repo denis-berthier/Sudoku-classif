@@ -15,14 +15,14 @@
 
 ;;; extract the 500 puzzles making the sample
 (load
-    (str-cat ?*TE3* "sample500/list.txt")
+    (str-cat ?*TE3-Mi* "sample500/list.txt")
 )
 
 (extract-lines-in-list
-    (str-cat ?*TE3* "puzzles.txt")
+    (str-cat ?*TE3-Mi* "puzzles.txt")
     158276
     ?*sample*
-    (str-cat ?*TE3* "Sample500/puzzles.txt")
+    (str-cat ?*TE3-Mi* "Sample500/puzzles.txt")
 )
 
 ;;; find all their minimals
@@ -32,21 +32,21 @@ cd /Users/berthier/Projects/Sudoku_Software/Other-Solvers/gsf_solver/gsf
 
 
 (record-nb-clues
-    (str-cat ?*TE3* "Sample500/minimals.txt")
-    (str-cat ?*TE3* "Sample500/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample500/minimals.txt")
+    (str-cat ?*TE3-Mi* "Sample500/nb-clues.txt")
     2101
 )
 (file-mean-and-sd
-    (str-cat ?*TE3* "Sample500/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample500/nb-clues.txt")
 )
 (27.1389153187441 1.31763937184542)
 
 (record-nb-cands-at-start
-    (str-cat ?*TE3* "Sample500/minimals.txt")
-    (str-cat ?*TE3* "Sample500/nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Sample500/minimals.txt")
+    (str-cat ?*TE3-Mi* "Sample500/nb-cands.txt")
     2101
 )
 (file-mean-and-sd
-    (str-cat ?*TE3* "Sample500/nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Sample500/nb-cands.txt")
 )
 (209.395337773549 10.9067161788936)
