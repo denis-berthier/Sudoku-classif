@@ -123,7 +123,7 @@ The two puzzle collections dealt with in this folder consist of puzzles in T&E(2
 ### 3.1. The eleven-26370-TE2 folder
 It's about  a collection of 26,370 minimal puzzles in T&E(2).
 In addition to the usual files, it contains:
-* the "sudo-eleven.pdf" file = [eleven 2011a];
+* the "sudo-eleven.pdf" file \[eleven 2011a\],
 * the document [eleven 2011b], in two parts;
 * a "degen-cycl-trid-list.clp" file containing the list of puzzles with a degenerate-cyclicl tridagon;
 * an "Imp630-list.clp" file containing the list of puzzles with a some Imp630 pattern;
@@ -155,6 +155,7 @@ In addition to the usual files, there are a "tridagon-list.clp" file and a "dege
 ### 4.2. The Monhard-until-2023-08-15-TE23 folder
 In addition to the usual files, there are two sub-folders, TE2 and TE3, for the puzzles in T&E(2) and T&E(3) respectively.
 ### 4.3. The Coloin-2024-09-03-B7B+ folder
+forthcoming
 <br><br><br>
 
 
@@ -238,7 +239,7 @@ https://sites.google.com/site/dobrichev/sudoku-puzzle-collections <br>
      https://github.com/denis-berthier/CSP-Rules-Examples <br>
 * [CSP-Rules-Examples]: BERTHIER Denis,
       https://github.com/denis-berthier/CSP-Rules-Examples <br>
-* [eleven 2011a]: “eleven”, http://forum.enjoysudoku.com/the-making-of-a-gotchi-a-simple-way-to-find-extreme-sudokus-t30150.html <br>
+* \[eleven 2011a\]: “eleven”, http://forum.enjoysudoku.com/the-making-of-a-gotchi-a-simple-way-to-find-extreme-sudokus-t30150.html <br>
 * [eleven 2011b]: “eleven”, 26,370 T&E(2) puzzles https://sites.google.com/site/sudoeleven/, 08/07/2011 (original, broken link); now available in [TE2-classif], with eleven’s permission. <br>
 * [eleven T11.2]: “eleven”, 1,278 puzzles from [eleven 2011b] used in Table 11.2 of [CRT] or [PBCS]. <br>
 * [Magictour-top1465]: http://magictour.free.fr/top1465 <br>
