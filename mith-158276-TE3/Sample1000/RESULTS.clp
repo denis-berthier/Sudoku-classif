@@ -14,14 +14,14 @@
 
 ;;; extract the 1000 puzzles making the sample
 (load
-    (str-cat ?*TE3* "sample1000/list.txt")
+    (str-cat ?*TE3-Mi* "sample1000/list.txt")
 )
 
 (extract-lines-in-list
-    (str-cat ?*TE3* "puzzles.txt")
+    (str-cat ?*TE3-Mi* "puzzles.txt")
     158276
     ?*sample*
-    (str-cat ?*TE3* "Sample1000/puzzles.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/puzzles.txt")
 )
 
 ;;; find all their minimals
@@ -31,30 +31,30 @@ cd /Users/berthier/Projects/Sudoku_Software/Other-Solvers/gsf_solver/gsf
 
 
 (record-nb-clues
-    (str-cat ?*TE3* "Sample1000/minimals.txt")
-    (str-cat ?*TE3* "Sample1000/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/minimals.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-clues.txt")
     4844
 )
 (file-min-value
-    (str-cat ?*TE3* "Sample1000/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-clues.txt")
 )
 min = 23
 (file-max-value
-    (str-cat ?*TE3* "Sample1000/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-clues.txt")
 )
 max = 31
 (file-mean-and-sd
-    (str-cat ?*TE3* "Sample1000/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-clues.txt")
 )
 (27.0489164086687 1.21712978543007)
 
 (record-nb-cands-at-start
-    (str-cat ?*TE3* "Sample1000/minimals.txt")
-    (str-cat ?*TE3* "Sample1000/nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/minimals.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-cands.txt")
     4844
 )
 (file-mean-and-sd
-    (str-cat ?*TE3* "Sample1000/nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-cands.txt")
 )
 (209.409907120743 9.86894436298367)
 
@@ -62,8 +62,8 @@ max = 31
 (correlation-coefficient
     nb-clues
     nb-cands
-    (str-cat ?*TE3* "Sample1000/nb-clues.txt")
-    (str-cat ?*TE3* "Sample1000/nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Sample1000/nb-cands.txt")
     4844
 )
 E(nb-clues) = 27.0545004128819
