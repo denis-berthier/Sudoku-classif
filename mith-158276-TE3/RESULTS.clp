@@ -16,31 +16,31 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;; nb-clues = nb-clues after-BRT
-(file-min-value (str-cat ?*TE3* "nb-clues.txt"))
+(file-min-value (str-cat ?*TE3-Mi* "nb-clues.txt"))
 24
-(file-max-value (str-cat ?*TE3* "nb-clues.txt"))
+(file-max-value (str-cat ?*TE3-Mi* "nb-clues.txt"))
 40
-(file-mean-and-sd (str-cat ?*TE3* "nb-clues.txt"))
+(file-mean-and-sd (str-cat ?*TE3-Mi* "nb-clues.txt"))
 (30.6345687280447 1.69259764392895)
 
 
 ;;; nb-cands = nb-cands-after-BRT
-(file-min-value (str-cat ?*TE3* "nb-cands.txt"))
+(file-min-value (str-cat ?*TE3-Mi* "nb-cands.txt"))
 min = 141
-(file-max-value (str-cat ?*TE3* "nb-cands.txt"))
+(file-max-value (str-cat ?*TE3-Mi* "nb-cands.txt"))
 max = 242
-(file-mean-and-sd (str-cat ?*TE3* "nb-cands.txt"))
+(file-mean-and-sd (str-cat ?*TE3-Mi* "nb-cands.txt"))
 (188.778317622381 10.7625795956769)
 
 
 ;;; nb-cands-after-W1
-(file-mean-and-sd (str-cat ?*TE3* "nb-cands-after-W1.txt"))
+(file-mean-and-sd (str-cat ?*TE3-Mi* "nb-cands-after-W1.txt"))
 (184.963596956829 10.9729769592129)
 
-(file-max-value (str-cat ?*TE3* "nb-cands-after-W1.txt"))
+(file-max-value (str-cat ?*TE3-Mi* "nb-cands-after-W1.txt"))
 234
 
-(file-min-value (str-cat ?*TE3* "nb-cands-after-W1.txt"))
+(file-min-value (str-cat ?*TE3-Mi* "nb-cands-after-W1.txt"))
 136
 
 
@@ -49,8 +49,8 @@ max = 242
 (correlation-coefficient
     nb-clues-after-BRT
     nb-cands-after-BRT
-    (str-cat ?*TE3* "nb-clues.txt")
-    (str-cat ?*TE3* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "nb-clues.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
     158276
 )
 E(nb-clues-after-BRT) = 30.6345687280451
@@ -64,21 +64,21 @@ b = 362.671644435731
 
 
 ;;; density (after BRT)
-(file-mean-and-sd (str-cat ?*TE3* "density.txt"))
+(file-mean-and-sd (str-cat ?*TE3-Mi* "density.txt"))
 (6.89698469761687 0.250843322849861)
 
-(file-max-value (str-cat ?*TE3* "density.txt"))
+(file-max-value (str-cat ?*TE3-Mi* "density.txt"))
 8.05
 
-(file-min-value (str-cat ?*TE3* "density.txt"))
+(file-min-value (str-cat ?*TE3-Mi* "density.txt"))
 min = 6.03
 
 
 (correlation-coefficient
     nb-clues-after-BRT
     density
-    (str-cat ?*TE3* "nb-clues.txt")
-    (str-cat ?*TE3* "density.txt")
+    (str-cat ?*TE3-Mi* "nb-clues.txt")
+    (str-cat ?*TE3-Mi* "density.txt")
     158276
 )
 E(nb-clues-after-BRT) = 30.6345687280451
@@ -93,8 +93,8 @@ b = 3.5876687083771
 (correlation-coefficient
     nb-cands-after-BRT
     density
-    (str-cat ?*TE3* "nb-cands.txt")
-    (str-cat ?*TE3* "density.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "density.txt")
     158276
 )
 E(nb-cands-after-BRT) = 188.778317622384
@@ -109,8 +109,8 @@ b = 8.87239033760665
 (sqr-correlation-coefficient
     density
     nb-cands-after-BRT
-    (str-cat ?*TE3* "density.txt")
-    (str-cat ?*TE3* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "density.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
     158276
 )
 E(density) = 6.89698469761677
@@ -134,8 +134,8 @@ b = 18.5733070136297
 (correlation-coefficient
     nb-clues
     W+OR5W
-    (str-cat ?*TE3* "nb-clues.txt")
-    (str-cat ?*TE3* "Trid-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "nb-clues.txt")
+    (str-cat ?*TE3-Mi* "Trid-OR5W-levels.txt")
     158276
 )
 E(nb-clues) = 30.6345687280451
@@ -150,8 +150,8 @@ b = 22.9861283628502
 (correlation-coefficient
     nb-cands
     W+OR5W
-    (str-cat ?*TE3* "nb-cands.txt")
-    (str-cat ?*TE3* "Trid-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "Trid-OR5W-levels.txt")
     158256
 )
 E(nb-cands) = 188.778656101509
@@ -167,8 +167,8 @@ b = 12.0504144762959
 (correlation-coefficient
     density
     W+OR5W
-    (str-cat ?*TE3* "density.txt")
-    (str-cat ?*TE3* "Trid-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "density.txt")
+    (str-cat ?*TE3-Mi* "Trid-OR5W-levels.txt")
     158276
 )
 E(density) = 6.89698469761677
@@ -184,8 +184,8 @@ b = 129.797490150369
 (correlation-coefficient
     nb-cands-after-BRT
     SER
-    (str-cat ?*TE3* "nb-cands.txt")
-    (str-cat ?*TE3* "SER.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "SER.txt")
     158276
 )
 needs to extract the SER info
@@ -199,15 +199,15 @@ needs to extract the SER info
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (mean-cands-deleted-n-grids-after-first-p
-    (str-cat ?*TE3* "nb-clues.txt")
-    (str-cat ?*TE3* "nb-cands.txt")
+    (str-cat ?*TE3-Mi* "nb-clues.txt")
+    (str-cat ?*TE3-Mi* "nb-cands.txt")
     0
     158276
-    (str-cat ?*TE3* "mdel.txt")
+    (str-cat ?*TE3-Mi* "mdel.txt")
 )
 
 (file-mean-and-sd
-    (str-cat ?*TE3* "mdel.txt")
+    (str-cat ?*TE3-Mi* "mdel.txt")
 )
 (17.670672827943 0.679738002024756)
 
@@ -221,8 +221,8 @@ needs to extract the SER info
 (compare-ratings-in-files
     Trid
     Imp630
-    (str-cat ?*TE3* "Trid-OR5W-levels.txt")
-    (str-cat ?*TE3* "Imp630-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "Trid-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "Imp630-OR5W-levels.txt")
     158276
 )
 #47: Trid = 5; Imp630 = 4; diff = 1
@@ -253,10 +253,10 @@ needs to extract the SER info
 ;;; Here again, any < sign is a non-confluence anomaly
 
 (compare-levels-in-4-files
-    (str-cat ?*TE3* "Trid-OR5W-levels.txt")
-    (str-cat ?*TE3* "Select1-OR5W-levels.txt") ; Select1
-    (str-cat ?*TE3* "Select2-OR5W-levels.txt") ; Select2
-    (str-cat ?*TE3* "Imp630-OR5W-levels.txt") ; Imp630
+    (str-cat ?*TE3-Mi* "Trid-OR5W-levels.txt")
+    (str-cat ?*TE3-Mi* "Select1-OR5W-levels.txt") ; Select1
+    (str-cat ?*TE3-Mi* "Select2-OR5W-levels.txt") ; Select2
+    (str-cat ?*TE3-Mi* "Imp630-OR5W-levels.txt") ; Imp630
     158276
 )
 47   5 = 5 > 4 = 4
