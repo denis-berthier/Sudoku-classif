@@ -148,12 +148,12 @@ Because they are too large for the GitHub limit (25 MB):
 
 ## 4. Post-tridagon T&E(2) collections
 The three puzzle collections dealt with in this folder consist of puzzles in T&E(2), with large BxB classifications, from the post-tridagon era. <br>
-(The Monhard-until-2023-08-15-TE2+3 collection also has T&E(3) puzzles, but they bring no new results with respect to the mith-158276-TE3 collection.)
+(The Monhard-until-2023-08-15-TE23 collection also has T&E(3) puzzles, but they bring no new results with respect to the mith-158276-TE3 collection.)
 
 ### 4.1. The Paquita-2023-sept-dec-TE2 folder
 In addition to the usual files, there are a "tridagon-list.clp" file and a "degen-cycl-trid-list.clp" file. Load them into SUdoRules to get access to global variables named ?\*tridagon-list\* and ?\*degenerate-cyclic-tridagon-list\*
 ### 4.2. The Monhard-until-2023-08-15-TE23 folder
-In addition to the usual files, there are two sub-folders, 
+In addition to the usual files, there are two sub-folders, TE2 and TE3, for the puzzles in T&E(2) and T&E(3) respectively.
 ### 4.3. The Coloin-2024-09-03-B7B+ folder
 <br><br><br>
 
@@ -176,7 +176,8 @@ The latter two show that, among 18-clue puzzles, even the highest SER ones don't
 ### 5.3. the dob-2014078-38c folder
 It's about a collection [c38] of 2,014,078 minimal puzzles with 38 clues; they are all in T&E(1) or T&E(2). In addition to the "standard" files, this folder contains:
 * a "PUZZLES" sub-folder: because the "puzzles.txt" file would be too large for GitHub, it is  split into 7 files "puzzles-a.txt" ... "puzzles-g.txt" in this sub-folder; if needed, assemble them by running the "assemble.txt" Unix script from the "PUZZLES" folder;
-* a "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles.
+* a "has-degen-cyclic-trid.clp" file, containing a list of the puzzles with a degenerate-cyclic-tridagon, restricted to the first 200,000 puzzles;
+* mdel-a.txt and mdel-b.txt files, to be assembled in this order to get the usual mdel.txt file.
 
 
 ### 5.4. the dob-2650-39c folder
