@@ -1,0 +1,2612 @@
+5
+5
+6
+5
+6
+5
+4
+5
+5
+5
+6
+5
+6
+5
+6
+6
+6
+5
+5
+6
+5
+7
+6
+6
+5
+6
+6
+5
+6
+6
+5
+5
+4
+6
+5
+4
+5
+5
+5
+5
+5
+4
+5
+5
+6
+6
+5
+5
+5
+5
+5
+5
+6
+6
+6
+5
+5
+4
+5
+4
+4
+4
+4
+5
+5
+5
+4
+5
+5
+5
+4
+5
+5
+4
+4
+4
+4
+5
+5
+5
+5
+4
+4
+5
+6
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+4
+5
+5
+6
+6
+4
+5
+6
+4
+4
+4
+4
+4
+5
+4
+4
+4
+4
+3
+5
+4
+3
+4
+4
+4
+5
+5
+4
+3
+4
+5
+4
+4
+4
+5
+5
+4
+4
+4
+5
+5
+4
+5
+4
+4
+5
+4
+5
+5
+5
+4
+4
+5
+5
+3
+4
+4
+3
+5
+5
+5
+4
+4
+4
+3
+5
+4
+4
+5
+5
+4
+4
+4
+4
+4
+5
+5
+4
+5
+5
+6
+5
+4
+5
+4
+4
+4
+4
+4
+4
+5
+5
+3
+5
+4
+5
+4
+4
+4
+5
+4
+5
+4
+5
+4
+5
+4
+5
+5
+3
+4
+5
+3
+4
+5
+4
+4
+4
+5
+5
+4
+4
+5
+4
+4
+4
+4
+3
+4
+4
+5
+3
+4
+4
+5
+4
+4
+5
+3
+5
+3
+5
+4
+4
+4
+5
+5
+4
+5
+4
+4
+4
+4
+4
+4
+4
+3
+3
+4
+3
+3
+5
+4
+4
+4
+5
+5
+5
+5
+4
+4
+5
+5
+4
+4
+5
+3
+5
+4
+4
+4
+4
+4
+5
+5
+5
+4
+4
+4
+5
+4
+6
+5
+6
+5
+3
+4
+4
+3
+3
+5
+4
+4
+5
+5
+4
+3
+5
+5
+5
+4
+5
+5
+5
+4
+4
+5
+5
+4
+5
+5
+5
+4
+4
+4
+5
+4
+4
+5
+5
+4
+5
+4
+3
+5
+4
+3
+4
+3
+6
+4
+4
+5
+3
+4
+4
+6
+5
+5
+5
+5
+4
+3
+6
+4
+4
+5
+4
+4
+5
+3
+6
+3
+5
+3
+3
+3
+3
+5
+6
+4
+4
+3
+5
+5
+5
+5
+4
+4
+5
+4
+4
+5
+4
+5
+5
+4
+5
+3
+4
+4
+4
+4
+4
+4
+6
+4
+5
+5
+4
+5
+5
+4
+3
+4
+4
+4
+4
+4
+4
+4
+5
+4
+4
+4
+4
+4
+4
+5
+4
+5
+4
+5
+4
+4
+4
+5
+4
+4
+4
+3
+4
+4
+4
+4
+5
+5
+4
+3
+4
+5
+5
+4
+4
+4
+6
+4
+3
+5
+4
+3
+5
+5
+5
+5
+4
+5
+5
+4
+5
+5
+4
+4
+4
+4
+3
+3
+5
+4
+5
+3
+4
+4
+4
+4
+4
+3
+5
+4
+5
+4
+5
+4
+4
+4
+4
+3
+4
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+4
+4
+4
+3
+4
+4
+5
+4
+3
+3
+4
+4
+4
+4
+4
+4
+4
+3
+4
+5
+4
+3
+4
+5
+4
+4
+3
+4
+3
+4
+4
+3
+4
+5
+3
+5
+3
+4
+5
+4
+5
+4
+3
+4
+4
+4
+4
+4
+3
+4
+4
+4
+3
+4
+5
+3
+4
+4
+4
+4
+3
+4
+4
+4
+4
+3
+3
+3
+3
+4
+5
+3
+5
+4
+4
+4
+4
+4
+5
+5
+3
+4
+4
+3
+4
+3
+3
+3
+4
+3
+3
+3
+3
+4
+2
+3
+3
+2
+3
+3
+4
+3
+4
+3
+4
+4
+4
+3
+3
+3
+2
+4
+4
+4
+3
+4
+4
+5
+4
+4
+3
+4
+5
+3
+4
+4
+4
+4
+3
+5
+4
+4
+4
+4
+4
+3
+4
+4
+4
+3
+3
+3
+4
+3
+3
+3
+3
+4
+3
+5
+3
+4
+5
+3
+4
+4
+4
+3
+3
+2
+3
+3
+4
+4
+3
+3
+5
+3
+4
+4
+3
+3
+3
+4
+5
+4
+4
+4
+3
+3
+4
+4
+5
+3
+3
+3
+3
+3
+3
+4
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+3
+3
+5
+4
+3
+4
+4
+4
+3
+2
+2
+3
+3
+2
+2
+3
+4
+3
+3
+3
+2
+3
+4
+3
+4
+4
+3
+3
+3
+3
+3
+3
+4
+4
+3
+4
+4
+3
+3
+2
+3
+3
+3
+3
+4
+3
+4
+4
+3
+3
+4
+2
+3
+3
+3
+3
+3
+3
+2
+3
+3
+4
+3
+4
+3
+4
+3
+4
+4
+3
+3
+3
+3
+4
+4
+3
+4
+3
+4
+4
+3
+3
+4
+3
+3
+3
+3
+2
+3
+2
+2
+3
+3
+3
+3
+3
+3
+2
+4
+3
+2
+3
+2
+3
+2
+3
+3
+2
+3
+3
+2
+2
+3
+2
+3
+2
+2
+3
+2
+3
+3
+2
+3
+3
+3
+2
+2
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+4
+3
+3
+3
+2
+3
+4
+3
+3
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+3
+4
+3
+3
+3
+4
+2
+2
+3
+3
+3
+2
+2
+2
+3
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3
+2
+2
+4
+2
+3
+2
+3
+3
+3
+2
+3
+3
+2
+3
+2
+2
+2
+2
+3
+2
+2
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3
+2
+3
+2
+3
+2
+3
+2
+3
+2
+2
+4
+3
+2
+2
+2
+3
+2
+4
+2
+4
+2
+2
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+4
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+5
+3
+3
+3
+4
+4
+3
+3
+4
+4
+3
+3
+3
+3
+2
+4
+3
+4
+4
+4
+2
+3
+3
+2
+2
+3
+3
+2
+4
+3
+3
+2
+4
+3
+4
+2
+4
+2
+4
+4
+3
+2
+3
+4
+2
+4
+3
+3
+4
+2
+3
+4
+3
+4
+3
+4
+3
+2
+3
+3
+2
+3
+2
+3
+2
+3
+4
+2
+4
+3
+3
+2
+2
+3
+2
+3
+4
+3
+2
+3
+2
+3
+4
+4
+2
+4
+4
+3
+2
+4
+3
+3
+3
+2
+3
+2
+4
+3
+2
+2
+3
+2
+2
+2
+4
+3
+4
+3
+3
+3
+3
+2
+2
+3
+4
+2
+4
+3
+3
+2
+3
+3
+2
+4
+2
+2
+3
+2
+3
+4
+3
+3
+2
+2
+3
+2
+2
+3
+2
+2
+2
+4
+2
+4
+4
+3
+3
+3
+2
+2
+3
+2
+3
+4
+4
+2
+3
+3
+3
+2
+3
+3
+3
+2
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+2
+3
+2
+3
+4
+3
+3
+3
+3
+3
+3
+3
+3
+4
+3
+3
+2
+2
+2
+3
+2
+3
+3
+2
+2
+2
+2
+2
+3
+2
+2
+3
+3
+2
+3
+3
+3
+2
+3
+3
+2
+2
+3
+3
+3
+2
+4
+2
+2
+3
+3
+2
+2
+3
+3
+2
+2
+3
+3
+3
+2
+3
+3
+3
+3
+2
+2
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+3
+3
+2
+3
+4
+3
+3
+3
+3
+2
+3
+2
+3
+2
+3
+2
+4
+2
+2
+2
+2
+2
+3
+2
+2
+2
+3
+2
+4
+2
+3
+2
+3
+3
+
+
+
+
+SER 11.9 to 11.6
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 5  Buffer chaines: 346/50000  Risque = false  Duree cumulee = 0h0m19s
+Grille  2  p = 5  Buffer chaines: 563/50000  Risque = false  Duree cumulee = 0h0m35s
+Grille  3  p = 6  Buffer chaines: 2880/50000  Risque = false  Duree cumulee = 0h1m39s
+Grille  4  p = 5  Buffer chaines: 341/50000  Risque = false  Duree cumulee = 0h1m56s
+Grille  5  p = 6  Buffer chaines: 1827/50000  Risque = false  Duree cumulee = 0h2m55s
+Grille  6  p = 5  Buffer chaines: 311/50000  Risque = false  Duree cumulee = 0h3m6s
+Grille  7  p = 4  Buffer chaines: 108/50000  Risque = false  Duree cumulee = 0h3m20s
+Grille  8  p = 5  Buffer chaines: 187/50000  Risque = false  Duree cumulee = 0h3m33s
+Grille  9  p = 5  Buffer chaines: 359/50000  Risque = false  Duree cumulee = 0h4m9s
+Grille  10  p = 5  Buffer chaines: 494/50000  Risque = false  Duree cumulee = 0h4m47s
+Grille  11  p = 6  Buffer chaines: 2612/50000  Risque = false  Duree cumulee = 0h5m22s
+Grille  12  p = 5  Buffer chaines: 737/50000  Risque = false  Duree cumulee = 0h5m39s
+Grille  13  p = 6  Buffer chaines: 902/50000  Risque = false  Duree cumulee = 0h6m38s
+Grille  14  p = 5  Buffer chaines: 873/50000  Risque = false  Duree cumulee = 0h7m27s
+Grille  15  p = 6  Buffer chaines: 1477/50000  Risque = false  Duree cumulee = 0h7m54s
+Grille  16  p = 6  Buffer chaines: 511/50000  Risque = false  Duree cumulee = 0h8m23s
+Grille  17  p = 6  Buffer chaines: 1134/50000  Risque = false  Duree cumulee = 0h9m12s
+Grille  18  p = 5  Buffer chaines: 328/50000  Risque = false  Duree cumulee = 0h9m30s
+Grille  19  p = 5  Buffer chaines: 525/50000  Risque = false  Duree cumulee = 0h9m52s
+Grille  20  p = 6  Buffer chaines: 998/50000  Risque = false  Duree cumulee = 0h10m23s
+Grille  21  p = 5  Buffer chaines: 360/50000  Risque = false  Duree cumulee = 0h11m8s
+Grille  22  p = 7  Buffer chaines: 1591/50000  Risque = false  Duree cumulee = 0h11m49s
+Grille  23  p = 6  Buffer chaines: 616/50000  Risque = false  Duree cumulee = 0h12m16s
+Grille  24  p = 6  Buffer chaines: 1336/50000  Risque = false  Duree cumulee = 0h13m0s
+Grille  25  p = 5  Buffer chaines: 402/50000  Risque = false  Duree cumulee = 0h13m21s
+Grille  26  p = 6  Buffer chaines: 1291/50000  Risque = false  Duree cumulee = 0h14m31s
+Grille  27  p = 6  Buffer chaines: 1881/50000  Risque = false  Duree cumulee = 0h15m8s
+Grille  28  p = 5  Buffer chaines: 346/50000  Risque = false  Duree cumulee = 0h15m28s
+Grille  29  p = 6  Buffer chaines: 2166/50000  Risque = false  Duree cumulee = 0h16m6s
+Grille  30  p = 6  Buffer chaines: 2903/50000  Risque = false  Duree cumulee = 0h16m32s
+Grille  31  p = 5  Buffer chaines: 996/50000  Risque = false  Duree cumulee = 0h16m46s
+Grille  32  p = 5  Buffer chaines: 303/50000  Risque = false  Duree cumulee = 0h17m27s
+Grille  33  p = 4  Buffer chaines: 209/50000  Risque = false  Duree cumulee = 0h17m35s
+Grille  34  p = 6  Buffer chaines: 386/50000  Risque = false  Duree cumulee = 0h17m52s
+Grille  35  p = 5  Buffer chaines: 959/50000  Risque = false  Duree cumulee = 0h18m15s
+Grille  36  p = 4  Buffer chaines: 198/50000  Risque = false  Duree cumulee = 0h18m33s
+Grille  37  p = 5  Buffer chaines: 472/50000  Risque = false  Duree cumulee = 0h18m57s
+Grille  38  p = 5  Buffer chaines: 380/50000  Risque = false  Duree cumulee = 0h19m19s
+Grille  39  p = 5  Buffer chaines: 514/50000  Risque = false  Duree cumulee = 0h19m54s
+Grille  40  p = 5  Buffer chaines: 264/50000  Risque = false  Duree cumulee = 0h20m28s
+Grille  41  p = 5  Buffer chaines: 264/50000  Risque = false  Duree cumulee = 0h21m2s
+Grille  42  p = 4  Buffer chaines: 67/50000  Risque = false  Duree cumulee = 0h21m6s
+Grille  43  p = 5  Buffer chaines: 1055/50000  Risque = false  Duree cumulee = 0h21m41s
+Grille  44  p = 5  Buffer chaines: 568/50000  Risque = false  Duree cumulee = 0h22m20s
+Grille  45  p = 6  Buffer chaines: 2847/50000  Risque = false  Duree cumulee = 0h23m5s
+Grille  46  p = 6  Buffer chaines: 912/50000  Risque = false  Duree cumulee = 0h23m27s
+Grille  47  p = 5  Buffer chaines: 495/50000  Risque = false  Duree cumulee = 0h23m43s
+Grille  48  p = 5  Buffer chaines: 327/50000  Risque = false  Duree cumulee = 0h24m2s
+Grille  49  p = 5  Buffer chaines: 464/50000  Risque = false  Duree cumulee = 0h24m28s
+Grille  50  p = 5  Buffer chaines: 587/50000  Risque = false  Duree cumulee = 0h25m4s
+Grille  51  p = 5  Buffer chaines: 377/50000  Risque = false  Duree cumulee = 0h25m25s
+Grille  52  p = 5  Buffer chaines: 569/50000  Risque = false  Duree cumulee = 0h25m41s
+Grille  53  p = 6  Buffer chaines: 539/50000  Risque = false  Duree cumulee = 0h26m8s
+Grille  54  p = 6  Buffer chaines: 871/50000  Risque = false  Duree cumulee = 0h26m40s
+Grille  55  p = 6  Buffer chaines: 1634/50000  Risque = false  Duree cumulee = 0h27m3s
+Grille  56  p = 5  Buffer chaines: 360/50000  Risque = false  Duree cumulee = 0h27m27s
+Grille  57  p = 5  Buffer chaines: 343/50000  Risque = false  Duree cumulee = 0h27m58s
+Grille  58  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 0h28m12s
+Grille  59  p = 5  Buffer chaines: 765/50000  Risque = false  Duree cumulee = 0h28m35s
+Grille  60  p = 4  Buffer chaines: 135/50000  Risque = false  Duree cumulee = 0h28m40s
+Grille  61  p = 4  Buffer chaines: 204/50000  Risque = false  Duree cumulee = 0h28m43s
+Grille  62  p = 4  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h28m48s
+Grille  63  p = 4  Buffer chaines: 196/50000  Risque = false  Duree cumulee = 0h29m3s
+Grille  64  p = 5  Buffer chaines: 505/50000  Risque = false  Duree cumulee = 0h29m32s
+Grille  65  p = 5  Buffer chaines: 655/50000  Risque = false  Duree cumulee = 0h29m59s
+Grille  66  p = 5  Buffer chaines: 721/50000  Risque = false  Duree cumulee = 0h30m41s
+Grille  67  p = 4  Buffer chaines: 160/50000  Risque = false  Duree cumulee = 0h31m14s
+Grille  68  p = 5  Buffer chaines: 761/50000  Risque = false  Duree cumulee = 0h31m53s
+Grille  69  p = 5  Buffer chaines: 599/50000  Risque = false  Duree cumulee = 0h32m10s
+Grille  70  p = 5  Buffer chaines: 799/50000  Risque = false  Duree cumulee = 0h32m42s
+Grille  71  p = 4  Buffer chaines: 101/50000  Risque = false  Duree cumulee = 0h32m57s
+Grille  72  p = 5  Buffer chaines: 630/50000  Risque = false  Duree cumulee = 0h33m17s
+Grille  73  p = 5  Buffer chaines: 392/50000  Risque = false  Duree cumulee = 0h33m47s
+Grille  74  p = 4  Buffer chaines: 258/50000  Risque = false  Duree cumulee = 0h34m7s
+Grille  75  p = 4  Buffer chaines: 168/50000  Risque = false  Duree cumulee = 0h34m34s
+Grille  76  p = 4  Buffer chaines: 180/50000  Risque = false  Duree cumulee = 0h34m46s
+Grille  77  p = 4  Buffer chaines: 210/50000  Risque = false  Duree cumulee = 0h35m10s
+Grille  78  p = 5  Buffer chaines: 1141/50000  Risque = false  Duree cumulee = 0h35m55s
+Grille  79  p = 5  Buffer chaines: 522/50000  Risque = false  Duree cumulee = 0h36m14s
+Grille  80  p = 5  Buffer chaines: 1551/50000  Risque = false  Duree cumulee = 0h36m53s
+Grille  81  p = 5  Buffer chaines: 318/50000  Risque = false  Duree cumulee = 0h37m18s
+Grille  82  p = 4  Buffer chaines: 162/50000  Risque = false  Duree cumulee = 0h38m16s
+Grille  83  p = 4  Buffer chaines: 261/50000  Risque = false  Duree cumulee = 0h38m23s
+Grille  84  p = 5  Buffer chaines: 582/50000  Risque = false  Duree cumulee = 0h38m59s
+Grille  85  p = 6  Buffer chaines: 1783/50000  Risque = false  Duree cumulee = 0h39m54s
+Grille  86  p = 5  Buffer chaines: 887/50000  Risque = false  Duree cumulee = 0h41m8s
+Grille  87  p = 5  Buffer chaines: 205/50000  Risque = false  Duree cumulee = 0h41m18s
+Grille  88  p = 5  Buffer chaines: 281/50000  Risque = false  Duree cumulee = 0h41m34s
+Grille  89  p = 5  Buffer chaines: 450/50000  Risque = false  Duree cumulee = 0h41m52s
+Grille  90  p = 5  Buffer chaines: 621/50000  Risque = false  Duree cumulee = 0h42m40s
+Grille  91  p = 5  Buffer chaines: 722/50000  Risque = false  Duree cumulee = 0h43m17s
+Grille  92  p = 5  Buffer chaines: 651/50000  Risque = false  Duree cumulee = 0h43m38s
+Grille  93  p = 5  Buffer chaines: 420/50000  Risque = false  Duree cumulee = 0h44m0s
+Grille  94  p = 5  Buffer chaines: 218/50000  Risque = false  Duree cumulee = 0h44m10s
+Grille  95  p = 5  Buffer chaines: 357/50000  Risque = false  Duree cumulee = 0h44m26s
+Grille  96  p = 4  Buffer chaines: 209/50000  Risque = false  Duree cumulee = 0h44m47s
+Grille  97  p = 5  Buffer chaines: 273/50000  Risque = false  Duree cumulee = 0h45m8s
+Grille  98  p = 5  Buffer chaines: 631/50000  Risque = false  Duree cumulee = 0h45m34s
+Grille  99  p = 6  Buffer chaines: 663/50000  Risque = false  Duree cumulee = 0h45m59s
+Grille  100  p = 6  Buffer chaines: 2597/50000  Risque = false  Duree cumulee = 0h46m45s
+Grille  101  p = 4  Buffer chaines: 174/50000  Risque = false  Duree cumulee = 0h46m53s
+Grille  102  p = 5  Buffer chaines: 129/50000  Risque = false  Duree cumulee = 0h47m3s
+Grille  103  p = 6  Buffer chaines: 728/50000  Risque = false  Duree cumulee = 0h47m35s
+Grille  104  p = 4  Buffer chaines: 270/50000  Risque = false  Duree cumulee = 0h47m43s
+Grille  105  p = 4  Buffer chaines: 226/50000  Risque = false  Duree cumulee = 0h47m52s
+Grille  106  p = 4  Buffer chaines: 186/50000  Risque = false  Duree cumulee = 0h48m11s
+Nombre de grilles traitees: 106
+Nombre de grilles non resolues: 0
+
+
+SER 11.5
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 4  Buffer chaines: 186/50000  Risque = false  Duree cumulee = 0h0m8s
+Grille  2  p = 4  Buffer chaines: 159/50000  Risque = false  Duree cumulee = 0h0m20s
+Grille  3  p = 5  Buffer chaines: 209/50000  Risque = false  Duree cumulee = 0h0m31s
+Grille  4  p = 4  Buffer chaines: 272/50000  Risque = false  Duree cumulee = 0h0m57s
+Grille  5  p = 4  Buffer chaines: 89/50000  Risque = false  Duree cumulee = 0h1m14s
+Grille  6  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h1m32s
+Grille  7  p = 4  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h1m36s
+Grille  8  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h1m40s
+Grille  9  p = 5  Buffer chaines: 690/50000  Risque = false  Duree cumulee = 0h2m0s
+Grille  10  p = 4  Buffer chaines: 201/50000  Risque = false  Duree cumulee = 0h2m15s
+Grille  11  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h2m17s
+Grille  12  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h2m27s
+Grille  13  p = 4  Buffer chaines: 226/50000  Risque = false  Duree cumulee = 0h2m34s
+Grille  14  p = 4  Buffer chaines: 162/50000  Risque = false  Duree cumulee = 0h2m44s
+Grille  15  p = 5  Buffer chaines: 439/50000  Risque = false  Duree cumulee = 0h3m3s
+Grille  16  p = 5  Buffer chaines: 225/50000  Risque = false  Duree cumulee = 0h3m16s
+Grille  17  p = 4  Buffer chaines: 245/50000  Risque = false  Duree cumulee = 0h3m26s
+Grille  18  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h3m28s
+Grille  19  p = 4  Buffer chaines: 115/50000  Risque = false  Duree cumulee = 0h3m33s
+Grille  20  p = 5  Buffer chaines: 749/50000  Risque = false  Duree cumulee = 0h3m50s
+Grille  21  p = 4  Buffer chaines: 190/50000  Risque = false  Duree cumulee = 0h3m58s
+Grille  22  p = 4  Buffer chaines: 139/50000  Risque = false  Duree cumulee = 0h4m9s
+Grille  23  p = 4  Buffer chaines: 132/50000  Risque = false  Duree cumulee = 0h4m19s
+Grille  24  p = 5  Buffer chaines: 277/50000  Risque = false  Duree cumulee = 0h4m26s
+Grille  25  p = 5  Buffer chaines: 728/50000  Risque = false  Duree cumulee = 0h5m0s
+Grille  26  p = 4  Buffer chaines: 148/50000  Risque = false  Duree cumulee = 0h5m4s
+Grille  27  p = 4  Buffer chaines: 327/50000  Risque = false  Duree cumulee = 0h5m37s
+Grille  28  p = 4  Buffer chaines: 187/50000  Risque = false  Duree cumulee = 0h5m41s
+Grille  29  p = 5  Buffer chaines: 939/50000  Risque = false  Duree cumulee = 0h6m16s
+Grille  30  p = 5  Buffer chaines: 541/50000  Risque = false  Duree cumulee = 0h6m49s
+Grille  31  p = 4  Buffer chaines: 170/50000  Risque = false  Duree cumulee = 0h6m57s
+Grille  32  p = 5  Buffer chaines: 308/50000  Risque = false  Duree cumulee = 0h7m10s
+Grille  33  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h7m25s
+Grille  34  p = 4  Buffer chaines: 164/50000  Risque = false  Duree cumulee = 0h7m39s
+Grille  35  p = 5  Buffer chaines: 1029/50000  Risque = false  Duree cumulee = 0h8m12s
+Grille  36  p = 4  Buffer chaines: 190/50000  Risque = false  Duree cumulee = 0h8m20s
+Grille  37  p = 5  Buffer chaines: 1084/50000  Risque = false  Duree cumulee = 0h8m47s
+Grille  38  p = 5  Buffer chaines: 387/50000  Risque = false  Duree cumulee = 0h9m6s
+Grille  39  p = 5  Buffer chaines: 416/50000  Risque = false  Duree cumulee = 0h9m24s
+Grille  40  p = 4  Buffer chaines: 286/50000  Risque = false  Duree cumulee = 0h9m38s
+Grille  41  p = 4  Buffer chaines: 251/50000  Risque = false  Duree cumulee = 0h9m46s
+Grille  42  p = 5  Buffer chaines: 775/50000  Risque = false  Duree cumulee = 0h10m1s
+Grille  43  p = 5  Buffer chaines: 582/50000  Risque = false  Duree cumulee = 0h10m17s
+Grille  44  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h10m18s
+Grille  45  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h10m40s
+Grille  46  p = 4  Buffer chaines: 258/50000  Risque = false  Duree cumulee = 0h10m59s
+Grille  47  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h11m11s
+Grille  48  p = 5  Buffer chaines: 1246/50000  Risque = false  Duree cumulee = 0h11m39s
+Grille  49  p = 5  Buffer chaines: 400/50000  Risque = false  Duree cumulee = 0h12m3s
+Grille  50  p = 5  Buffer chaines: 638/50000  Risque = false  Duree cumulee = 0h12m47s
+Grille  51  p = 4  Buffer chaines: 223/50000  Risque = false  Duree cumulee = 0h13m0s
+Grille  52  p = 4  Buffer chaines: 148/50000  Risque = false  Duree cumulee = 0h13m9s
+Grille  53  p = 4  Buffer chaines: 141/50000  Risque = false  Duree cumulee = 0h13m26s
+Grille  54  p = 3  Buffer chaines: 21/50000  Risque = false  Duree cumulee = 0h13m27s
+Grille  55  p = 5  Buffer chaines: 348/50000  Risque = false  Duree cumulee = 0h13m49s
+Grille  56  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h14m8s
+Grille  57  p = 4  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h14m14s
+Grille  58  p = 5  Buffer chaines: 157/50000  Risque = false  Duree cumulee = 0h14m30s
+Grille  59  p = 5  Buffer chaines: 514/50000  Risque = false  Duree cumulee = 0h14m48s
+Grille  60  p = 4  Buffer chaines: 147/50000  Risque = false  Duree cumulee = 0h15m9s
+Grille  61  p = 4  Buffer chaines: 196/50000  Risque = false  Duree cumulee = 0h15m18s
+Grille  62  p = 4  Buffer chaines: 139/50000  Risque = false  Duree cumulee = 0h15m28s
+Grille  63  p = 4  Buffer chaines: 196/50000  Risque = false  Duree cumulee = 0h15m39s
+Grille  64  p = 4  Buffer chaines: 196/50000  Risque = false  Duree cumulee = 0h15m48s
+Grille  65  p = 5  Buffer chaines: 605/50000  Risque = false  Duree cumulee = 0h15m56s
+Grille  66  p = 5  Buffer chaines: 605/50000  Risque = false  Duree cumulee = 0h16m4s
+Grille  67  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 0h16m15s
+Grille  68  p = 5  Buffer chaines: 1116/50000  Risque = false  Duree cumulee = 0h16m39s
+Grille  69  p = 5  Buffer chaines: 923/50000  Risque = false  Duree cumulee = 0h17m1s
+Grille  70  p = 6  Buffer chaines: 2232/50000  Risque = false  Duree cumulee = 0h17m54s
+Grille  71  p = 5  Buffer chaines: 475/50000  Risque = false  Duree cumulee = 0h18m16s
+Grille  72  p = 4  Buffer chaines: 122/50000  Risque = false  Duree cumulee = 0h18m35s
+Grille  73  p = 5  Buffer chaines: 935/50000  Risque = false  Duree cumulee = 0h19m4s
+Grille  74  p = 4  Buffer chaines: 225/50000  Risque = false  Duree cumulee = 0h19m17s
+Grille  75  p = 4  Buffer chaines: 158/50000  Risque = false  Duree cumulee = 0h19m29s
+Grille  76  p = 4  Buffer chaines: 261/50000  Risque = false  Duree cumulee = 0h19m36s
+Grille  77  p = 4  Buffer chaines: 150/50000  Risque = false  Duree cumulee = 0h19m45s
+Grille  78  p = 4  Buffer chaines: 224/50000  Risque = false  Duree cumulee = 0h20m4s
+Grille  79  p = 4  Buffer chaines: 138/50000  Risque = false  Duree cumulee = 0h20m19s
+Grille  80  p = 5  Buffer chaines: 535/50000  Risque = false  Duree cumulee = 0h20m45s
+Grille  81  p = 5  Buffer chaines: 426/50000  Risque = false  Duree cumulee = 0h21m1s
+Grille  82  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h21m5s
+Grille  83  p = 5  Buffer chaines: 456/50000  Risque = false  Duree cumulee = 0h21m25s
+Grille  84  p = 4  Buffer chaines: 122/50000  Risque = false  Duree cumulee = 0h21m31s
+Grille  85  p = 5  Buffer chaines: 430/50000  Risque = false  Duree cumulee = 0h21m54s
+Grille  86  p = 4  Buffer chaines: 83/50000  Risque = false  Duree cumulee = 0h21m59s
+Grille  87  p = 4  Buffer chaines: 124/50000  Risque = false  Duree cumulee = 0h22m5s
+Grille  88  p = 4  Buffer chaines: 114/50000  Risque = false  Duree cumulee = 0h22m11s
+Grille  89  p = 5  Buffer chaines: 403/50000  Risque = false  Duree cumulee = 0h22m30s
+Grille  90  p = 4  Buffer chaines: 168/50000  Risque = false  Duree cumulee = 0h22m46s
+Grille  91  p = 5  Buffer chaines: 482/50000  Risque = false  Duree cumulee = 0h22m57s
+Grille  92  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 0h23m1s
+Grille  93  p = 5  Buffer chaines: 1618/50000  Risque = false  Duree cumulee = 0h23m12s
+Grille  94  p = 4  Buffer chaines: 157/50000  Risque = false  Duree cumulee = 0h23m34s
+Grille  95  p = 5  Buffer chaines: 113/50000  Risque = false  Duree cumulee = 0h23m46s
+Grille  96  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 0h23m56s
+Grille  97  p = 5  Buffer chaines: 767/50000  Risque = false  Duree cumulee = 0h24m32s
+Grille  98  p = 5  Buffer chaines: 767/50000  Risque = false  Duree cumulee = 0h25m9s
+Grille  99  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h25m11s
+Grille  100  p = 4  Buffer chaines: 438/50000  Risque = false  Duree cumulee = 0h25m39s
+Grille  101  p = 5  Buffer chaines: 299/50000  Risque = false  Duree cumulee = 0h25m48s
+Grille  102  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h25m50s
+Grille  103  p = 4  Buffer chaines: 231/50000  Risque = false  Duree cumulee = 0h26m4s
+Grille  104  p = 5  Buffer chaines: 695/50000  Risque = false  Duree cumulee = 0h26m17s
+Grille  105  p = 4  Buffer chaines: 126/50000  Risque = false  Duree cumulee = 0h26m22s
+Grille  106  p = 4  Buffer chaines: 457/50000  Risque = false  Duree cumulee = 0h26m43s
+Grille  107  p = 4  Buffer chaines: 81/50000  Risque = false  Duree cumulee = 0h26m47s
+Grille  108  p = 5  Buffer chaines: 579/50000  Risque = false  Duree cumulee = 0h27m7s
+Grille  109  p = 5  Buffer chaines: 1119/50000  Risque = false  Duree cumulee = 0h27m34s
+Nombre de grilles traitees: 109
+Nombre de grilles non resolues: 0
+
+
+SER 11.4
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 4  Buffer chaines: 138/50000  Risque = false  Duree cumulee = 0h0m13s
+Grille  2  p = 4  Buffer chaines: 126/50000  Risque = false  Duree cumulee = 0h0m17s
+Grille  3  p = 5  Buffer chaines: 1054/50000  Risque = false  Duree cumulee = 0h0m49s
+Grille  4  p = 4  Buffer chaines: 204/50000  Risque = false  Duree cumulee = 0h1m4s
+Grille  5  p = 4  Buffer chaines: 157/50000  Risque = false  Duree cumulee = 0h1m15s
+Grille  6  p = 4  Buffer chaines: 197/50000  Risque = false  Duree cumulee = 0h1m21s
+Grille  7  p = 4  Buffer chaines: 212/50000  Risque = false  Duree cumulee = 0h1m40s
+Grille  8  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h1m44s
+Grille  9  p = 4  Buffer chaines: 149/50000  Risque = false  Duree cumulee = 0h1m57s
+Grille  10  p = 4  Buffer chaines: 93/50000  Risque = false  Duree cumulee = 0h2m2s
+Grille  11  p = 5  Buffer chaines: 264/50000  Risque = false  Duree cumulee = 0h2m17s
+Grille  12  p = 3  Buffer chaines: 21/50000  Risque = false  Duree cumulee = 0h2m20s
+Grille  13  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 0h2m31s
+Grille  14  p = 4  Buffer chaines: 157/50000  Risque = false  Duree cumulee = 0h2m42s
+Grille  15  p = 5  Buffer chaines: 368/50000  Risque = false  Duree cumulee = 0h3m5s
+Grille  16  p = 4  Buffer chaines: 193/50000  Risque = false  Duree cumulee = 0h3m19s
+Grille  17  p = 4  Buffer chaines: 242/50000  Risque = false  Duree cumulee = 0h3m42s
+Grille  18  p = 5  Buffer chaines: 336/50000  Risque = false  Duree cumulee = 0h4m6s
+Grille  19  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h4m18s
+Grille  20  p = 5  Buffer chaines: 317/50000  Risque = false  Duree cumulee = 0h4m43s
+Grille  21  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h4m47s
+Grille  22  p = 5  Buffer chaines: 552/50000  Risque = false  Duree cumulee = 0h5m5s
+Grille  23  p = 4  Buffer chaines: 171/50000  Risque = false  Duree cumulee = 0h5m23s
+Grille  24  p = 4  Buffer chaines: 102/50000  Risque = false  Duree cumulee = 0h5m33s
+Grille  25  p = 4  Buffer chaines: 137/50000  Risque = false  Duree cumulee = 0h5m38s
+Grille  26  p = 5  Buffer chaines: 977/50000  Risque = false  Duree cumulee = 0h6m4s
+Grille  27  p = 5  Buffer chaines: 373/50000  Risque = false  Duree cumulee = 0h7m0s
+Grille  28  p = 4  Buffer chaines: 65/50000  Risque = false  Duree cumulee = 0h7m6s
+Grille  29  p = 5  Buffer chaines: 1214/50000  Risque = false  Duree cumulee = 0h7m42s
+Grille  30  p = 4  Buffer chaines: 143/50000  Risque = false  Duree cumulee = 0h7m50s
+Grille  31  p = 4  Buffer chaines: 187/50000  Risque = false  Duree cumulee = 0h8m2s
+Grille  32  p = 4  Buffer chaines: 121/50000  Risque = false  Duree cumulee = 0h8m13s
+Grille  33  p = 4  Buffer chaines: 206/50000  Risque = false  Duree cumulee = 0h8m24s
+Grille  34  p = 4  Buffer chaines: 188/50000  Risque = false  Duree cumulee = 0h8m38s
+Grille  35  p = 4  Buffer chaines: 237/50000  Risque = false  Duree cumulee = 0h8m50s
+Grille  36  p = 4  Buffer chaines: 121/50000  Risque = false  Duree cumulee = 0h8m57s
+Grille  37  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h9m0s
+Grille  38  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h9m2s
+Grille  39  p = 4  Buffer chaines: 175/50000  Risque = false  Duree cumulee = 0h9m9s
+Grille  40  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h9m11s
+Grille  41  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h9m13s
+Grille  42  p = 5  Buffer chaines: 357/50000  Risque = false  Duree cumulee = 0h9m38s
+Grille  43  p = 4  Buffer chaines: 120/50000  Risque = false  Duree cumulee = 0h10m8s
+Grille  44  p = 4  Buffer chaines: 183/50000  Risque = false  Duree cumulee = 0h10m21s
+Grille  45  p = 4  Buffer chaines: 267/50000  Risque = false  Duree cumulee = 0h10m30s
+Grille  46  p = 5  Buffer chaines: 574/50000  Risque = false  Duree cumulee = 0h11m4s
+Grille  47  p = 5  Buffer chaines: 469/50000  Risque = false  Duree cumulee = 0h11m32s
+Grille  48  p = 5  Buffer chaines: 490/50000  Risque = false  Duree cumulee = 0h12m11s
+Grille  49  p = 5  Buffer chaines: 372/50000  Risque = false  Duree cumulee = 0h12m40s
+Grille  50  p = 4  Buffer chaines: 178/50000  Risque = false  Duree cumulee = 0h13m9s
+Grille  51  p = 4  Buffer chaines: 147/50000  Risque = false  Duree cumulee = 0h13m34s
+Grille  52  p = 5  Buffer chaines: 532/50000  Risque = false  Duree cumulee = 0h13m52s
+Grille  53  p = 5  Buffer chaines: 570/50000  Risque = false  Duree cumulee = 0h14m22s
+Grille  54  p = 4  Buffer chaines: 238/50000  Risque = false  Duree cumulee = 0h14m56s
+Grille  55  p = 4  Buffer chaines: 153/50000  Risque = false  Duree cumulee = 0h15m21s
+Grille  56  p = 5  Buffer chaines: 1400/50000  Risque = false  Duree cumulee = 0h16m9s
+Grille  57  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h16m25s
+Grille  58  p = 5  Buffer chaines: 510/50000  Risque = false  Duree cumulee = 0h17m10s
+Grille  59  p = 4  Buffer chaines: 216/50000  Risque = false  Duree cumulee = 0h17m22s
+Grille  60  p = 4  Buffer chaines: 201/50000  Risque = false  Duree cumulee = 0h17m32s
+Grille  61  p = 4  Buffer chaines: 177/50000  Risque = false  Duree cumulee = 0h17m39s
+Grille  62  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h18m9s
+Grille  63  p = 4  Buffer chaines: 219/50000  Risque = false  Duree cumulee = 0h18m29s
+Grille  64  p = 5  Buffer chaines: 993/50000  Risque = false  Duree cumulee = 0h19m8s
+Grille  65  p = 5  Buffer chaines: 372/50000  Risque = false  Duree cumulee = 0h19m42s
+Grille  66  p = 5  Buffer chaines: 329/50000  Risque = false  Duree cumulee = 0h19m56s
+Grille  67  p = 4  Buffer chaines: 173/50000  Risque = false  Duree cumulee = 0h20m5s
+Grille  68  p = 4  Buffer chaines: 292/50000  Risque = false  Duree cumulee = 0h20m18s
+Grille  69  p = 4  Buffer chaines: 151/50000  Risque = false  Duree cumulee = 0h20m26s
+Grille  70  p = 5  Buffer chaines: 815/50000  Risque = false  Duree cumulee = 0h21m1s
+Grille  71  p = 4  Buffer chaines: 155/50000  Risque = false  Duree cumulee = 0h21m22s
+Grille  72  p = 6  Buffer chaines: 3623/50000  Risque = false  Duree cumulee = 0h22m17s
+Grille  73  p = 5  Buffer chaines: 413/50000  Risque = false  Duree cumulee = 0h22m37s
+Grille  74  p = 6  Buffer chaines: 1144/50000  Risque = false  Duree cumulee = 0h23m15s
+Grille  75  p = 5  Buffer chaines: 765/50000  Risque = false  Duree cumulee = 0h23m57s
+Grille  76  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h24m3s
+Grille  77  p = 4  Buffer chaines: 169/50000  Risque = false  Duree cumulee = 0h24m17s
+Grille  78  p = 4  Buffer chaines: 329/50000  Risque = false  Duree cumulee = 0h24m25s
+Grille  79  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h24m29s
+Grille  80  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h24m31s
+Grille  81  p = 5  Buffer chaines: 811/50000  Risque = false  Duree cumulee = 0h25m31s
+Grille  82  p = 4  Buffer chaines: 171/50000  Risque = false  Duree cumulee = 0h25m49s
+Grille  83  p = 4  Buffer chaines: 194/50000  Risque = false  Duree cumulee = 0h26m5s
+Grille  84  p = 5  Buffer chaines: 593/50000  Risque = false  Duree cumulee = 0h26m28s
+Grille  85  p = 5  Buffer chaines: 356/50000  Risque = false  Duree cumulee = 0h27m2s
+Grille  86  p = 4  Buffer chaines: 177/50000  Risque = false  Duree cumulee = 0h27m15s
+Grille  87  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h27m17s
+Grille  88  p = 5  Buffer chaines: 458/50000  Risque = false  Duree cumulee = 0h27m51s
+Grille  89  p = 5  Buffer chaines: 277/50000  Risque = false  Duree cumulee = 0h28m21s
+Grille  90  p = 5  Buffer chaines: 352/50000  Risque = false  Duree cumulee = 0h28m48s
+Grille  91  p = 4  Buffer chaines: 156/50000  Risque = false  Duree cumulee = 0h29m5s
+Grille  92  p = 5  Buffer chaines: 1175/50000  Risque = false  Duree cumulee = 0h29m50s
+Grille  93  p = 5  Buffer chaines: 520/50000  Risque = false  Duree cumulee = 0h30m21s
+Grille  94  p = 5  Buffer chaines: 523/50000  Risque = false  Duree cumulee = 0h30m56s
+Grille  95  p = 4  Buffer chaines: 258/50000  Risque = false  Duree cumulee = 0h31m25s
+Grille  96  p = 4  Buffer chaines: 495/50000  Risque = false  Duree cumulee = 0h31m42s
+Grille  97  p = 5  Buffer chaines: 513/50000  Risque = false  Duree cumulee = 0h32m14s
+Grille  98  p = 5  Buffer chaines: 784/50000  Risque = false  Duree cumulee = 0h32m27s
+Grille  99  p = 4  Buffer chaines: 187/50000  Risque = false  Duree cumulee = 0h32m36s
+Grille  100  p = 5  Buffer chaines: 464/50000  Risque = false  Duree cumulee = 0h32m59s
+Grille  101  p = 5  Buffer chaines: 1271/50000  Risque = false  Duree cumulee = 0h33m9s
+Grille  102  p = 5  Buffer chaines: 520/50000  Risque = false  Duree cumulee = 0h33m25s
+Grille  103  p = 4  Buffer chaines: 195/50000  Risque = false  Duree cumulee = 0h33m32s
+Grille  104  p = 4  Buffer chaines: 148/50000  Risque = false  Duree cumulee = 0h33m50s
+Grille  105  p = 4  Buffer chaines: 128/50000  Risque = false  Duree cumulee = 0h34m5s
+Grille  106  p = 5  Buffer chaines: 280/50000  Risque = false  Duree cumulee = 0h34m20s
+Grille  107  p = 4  Buffer chaines: 385/50000  Risque = false  Duree cumulee = 0h34m40s
+Grille  108  p = 4  Buffer chaines: 189/50000  Risque = false  Duree cumulee = 0h34m56s
+Grille  109  p = 5  Buffer chaines: 499/50000  Risque = false  Duree cumulee = 0h35m18s
+Grille  110  p = 5  Buffer chaines: 1209/50000  Risque = false  Duree cumulee = 0h36m6s
+Grille  111  p = 4  Buffer chaines: 245/50000  Risque = false  Duree cumulee = 0h36m16s
+Grille  112  p = 5  Buffer chaines: 405/50000  Risque = false  Duree cumulee = 0h36m34s
+Grille  113  p = 4  Buffer chaines: 316/50000  Risque = false  Duree cumulee = 0h36m43s
+Grille  114  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h36m48s
+Grille  115  p = 5  Buffer chaines: 340/50000  Risque = false  Duree cumulee = 0h36m53s
+Grille  116  p = 4  Buffer chaines: 132/50000  Risque = false  Duree cumulee = 0h36m57s
+Grille  117  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h37m0s
+Grille  118  p = 4  Buffer chaines: 133/50000  Risque = false  Duree cumulee = 0h37m15s
+Grille  119  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h37m30s
+Grille  120  p = 6  Buffer chaines: 3229/50000  Risque = false  Duree cumulee = 0h38m21s
+Grille  121  p = 4  Buffer chaines: 319/50000  Risque = false  Duree cumulee = 0h38m56s
+Grille  122  p = 4  Buffer chaines: 319/50000  Risque = false  Duree cumulee = 0h39m30s
+Grille  123  p = 5  Buffer chaines: 554/50000  Risque = false  Duree cumulee = 0h39m56s
+Grille  124  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h40m0s
+Grille  125  p = 4  Buffer chaines: 62/50000  Risque = false  Duree cumulee = 0h40m5s
+Grille  126  p = 4  Buffer chaines: 202/50000  Risque = false  Duree cumulee = 0h40m14s
+Grille  127  p = 6  Buffer chaines: 853/50000  Risque = false  Duree cumulee = 0h41m37s
+Grille  128  p = 5  Buffer chaines: 146/50000  Risque = false  Duree cumulee = 0h41m47s
+Grille  129  p = 5  Buffer chaines: 804/50000  Risque = false  Duree cumulee = 0h42m30s
+Grille  130  p = 5  Buffer chaines: 619/50000  Risque = false  Duree cumulee = 0h42m47s
+Grille  131  p = 5  Buffer chaines: 552/50000  Risque = false  Duree cumulee = 0h43m13s
+Grille  132  p = 4  Buffer chaines: 57/50000  Risque = false  Duree cumulee = 0h43m17s
+Grille  133  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h43m32s
+Grille  134  p = 6  Buffer chaines: 1128/50000  Risque = false  Duree cumulee = 0h44m7s
+Grille  135  p = 4  Buffer chaines: 105/50000  Risque = false  Duree cumulee = 0h44m12s
+Grille  136  p = 4  Buffer chaines: 210/50000  Risque = false  Duree cumulee = 0h44m21s
+Grille  137  p = 5  Buffer chaines: 326/50000  Risque = false  Duree cumulee = 0h44m47s
+Grille  138  p = 4  Buffer chaines: 160/50000  Risque = false  Duree cumulee = 0h45m4s
+Grille  139  p = 4  Buffer chaines: 314/50000  Risque = false  Duree cumulee = 0h45m18s
+Grille  140  p = 5  Buffer chaines: 471/50000  Risque = false  Duree cumulee = 0h45m45s
+Grille  141  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h45m47s
+Grille  142  p = 6  Buffer chaines: 719/50000  Risque = false  Duree cumulee = 0h46m18s
+Grille  143  p = 3  Buffer chaines: 21/50000  Risque = false  Duree cumulee = 0h46m20s
+Grille  144  p = 5  Buffer chaines: 1879/50000  Risque = false  Duree cumulee = 0h46m52s
+Grille  145  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h47m6s
+Grille  146  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h47m7s
+Grille  147  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h47m10s
+Grille  148  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h47m12s
+Grille  149  p = 5  Buffer chaines: 1255/50000  Risque = false  Duree cumulee = 0h47m40s
+Grille  150  p = 6  Buffer chaines: 2836/50000  Risque = false  Duree cumulee = 0h48m43s
+Grille  151  p = 4  Buffer chaines: 160/50000  Risque = false  Duree cumulee = 0h48m52s
+Grille  152  p = 4  Buffer chaines: 288/50000  Risque = false  Duree cumulee = 0h49m9s
+Grille  153  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h49m10s
+Grille  154  p = 5  Buffer chaines: 305/50000  Risque = false  Duree cumulee = 0h49m30s
+Grille  155  p = 5  Buffer chaines: 350/50000  Risque = false  Duree cumulee = 0h49m59s
+Grille  156  p = 5  Buffer chaines: 829/50000  Risque = false  Duree cumulee = 0h50m27s
+Grille  157  p = 5  Buffer chaines: 349/50000  Risque = false  Duree cumulee = 0h50m44s
+Grille  158  p = 4  Buffer chaines: 186/50000  Risque = false  Duree cumulee = 0h50m55s
+Grille  159  p = 4  Buffer chaines: 137/50000  Risque = false  Duree cumulee = 0h51m4s
+Grille  160  p = 5  Buffer chaines: 414/50000  Risque = false  Duree cumulee = 0h51m27s
+Grille  161  p = 4  Buffer chaines: 317/50000  Risque = false  Duree cumulee = 0h51m54s
+Grille  162  p = 4  Buffer chaines: 317/50000  Risque = false  Duree cumulee = 0h52m21s
+Grille  163  p = 5  Buffer chaines: 483/50000  Risque = false  Duree cumulee = 0h53m4s
+Grille  164  p = 4  Buffer chaines: 163/50000  Risque = false  Duree cumulee = 0h53m10s
+Grille  165  p = 5  Buffer chaines: 481/50000  Risque = false  Duree cumulee = 0h53m31s
+Grille  166  p = 5  Buffer chaines: 526/50000  Risque = false  Duree cumulee = 0h53m49s
+Grille  167  p = 4  Buffer chaines: 330/50000  Risque = false  Duree cumulee = 0h54m1s
+Grille  168  p = 5  Buffer chaines: 652/50000  Risque = false  Duree cumulee = 0h54m22s
+Grille  169  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h54m23s
+Grille  170  p = 4  Buffer chaines: 270/50000  Risque = false  Duree cumulee = 0h54m40s
+Grille  171  p = 4  Buffer chaines: 147/50000  Risque = false  Duree cumulee = 0h54m54s
+Grille  172  p = 4  Buffer chaines: 207/50000  Risque = false  Duree cumulee = 0h55m11s
+Grille  173  p = 4  Buffer chaines: 130/50000  Risque = false  Duree cumulee = 0h55m17s
+Grille  174  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h55m32s
+Grille  175  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h55m52s
+Grille  176  p = 6  Buffer chaines: 2783/50000  Risque = false  Duree cumulee = 0h56m35s
+Grille  177  p = 4  Buffer chaines: 284/50000  Risque = false  Duree cumulee = 0h56m43s
+Grille  178  p = 5  Buffer chaines: 877/50000  Risque = false  Duree cumulee = 0h57m13s
+Grille  179  p = 5  Buffer chaines: 305/50000  Risque = false  Duree cumulee = 0h57m37s
+Grille  180  p = 4  Buffer chaines: 251/50000  Risque = false  Duree cumulee = 0h57m49s
+Grille  181  p = 5  Buffer chaines: 793/50000  Risque = false  Duree cumulee = 0h58m14s
+Grille  182  p = 5  Buffer chaines: 434/50000  Risque = false  Duree cumulee = 0h58m39s
+Grille  183  p = 4  Buffer chaines: 95/50000  Risque = false  Duree cumulee = 0h58m50s
+Grille  184  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h58m56s
+Grille  185  p = 4  Buffer chaines: 208/50000  Risque = false  Duree cumulee = 0h59m2s
+Grille  186  p = 4  Buffer chaines: 219/50000  Risque = false  Duree cumulee = 0h59m18s
+Grille  187  p = 4  Buffer chaines: 277/50000  Risque = false  Duree cumulee = 0h59m32s
+Grille  188  p = 4  Buffer chaines: 147/50000  Risque = false  Duree cumulee = 0h59m39s
+Grille  189  p = 4  Buffer chaines: 160/50000  Risque = false  Duree cumulee = 0h59m44s
+Grille  190  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h59m54s
+Grille  191  p = 4  Buffer chaines: 128/50000  Risque = false  Duree cumulee = 1h0m0s
+Grille  192  p = 5  Buffer chaines: 555/50000  Risque = false  Duree cumulee = 1h0m31s
+Grille  193  p = 4  Buffer chaines: 189/50000  Risque = false  Duree cumulee = 1h0m36s
+Grille  194  p = 4  Buffer chaines: 117/50000  Risque = false  Duree cumulee = 1h0m47s
+Grille  195  p = 4  Buffer chaines: 153/50000  Risque = false  Duree cumulee = 1h0m51s
+Grille  196  p = 4  Buffer chaines: 149/50000  Risque = false  Duree cumulee = 1h1m0s
+Grille  197  p = 4  Buffer chaines: 136/50000  Risque = false  Duree cumulee = 1h1m11s
+Grille  198  p = 4  Buffer chaines: 353/50000  Risque = false  Duree cumulee = 1h1m20s
+Grille  199  p = 5  Buffer chaines: 386/50000  Risque = false  Duree cumulee = 1h1m43s
+Grille  200  p = 4  Buffer chaines: 125/50000  Risque = false  Duree cumulee = 1h2m2s
+Grille  201  p = 5  Buffer chaines: 224/50000  Risque = false  Duree cumulee = 1h2m15s
+Grille  202  p = 4  Buffer chaines: 175/50000  Risque = false  Duree cumulee = 1h2m27s
+Grille  203  p = 5  Buffer chaines: 351/50000  Risque = false  Duree cumulee = 1h2m58s
+Grille  204  p = 4  Buffer chaines: 86/50000  Risque = false  Duree cumulee = 1h3m3s
+Grille  205  p = 4  Buffer chaines: 99/50000  Risque = false  Duree cumulee = 1h3m8s
+Grille  206  p = 4  Buffer chaines: 149/50000  Risque = false  Duree cumulee = 1h3m21s
+Grille  207  p = 5  Buffer chaines: 1220/50000  Risque = false  Duree cumulee = 1h4m9s
+Grille  208  p = 4  Buffer chaines: 50/50000  Risque = false  Duree cumulee = 1h4m11s
+Grille  209  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 1h4m21s
+Grille  210  p = 4  Buffer chaines: 168/50000  Risque = false  Duree cumulee = 1h4m32s
+Grille  211  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 1h4m43s
+Grille  212  p = 4  Buffer chaines: 385/50000  Risque = false  Duree cumulee = 1h4m55s
+Grille  213  p = 4  Buffer chaines: 76/50000  Risque = false  Duree cumulee = 1h4m59s
+Grille  214  p = 4  Buffer chaines: 126/50000  Risque = false  Duree cumulee = 1h5m10s
+Grille  215  p = 4  Buffer chaines: 213/50000  Risque = false  Duree cumulee = 1h5m20s
+Grille  216  p = 5  Buffer chaines: 482/50000  Risque = false  Duree cumulee = 1h5m47s
+Grille  217  p = 5  Buffer chaines: 1299/50000  Risque = false  Duree cumulee = 1h6m12s
+Grille  218  p = 4  Buffer chaines: 202/50000  Risque = false  Duree cumulee = 1h6m23s
+Grille  219  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 1h6m29s
+Grille  220  p = 4  Buffer chaines: 314/50000  Risque = false  Duree cumulee = 1h6m37s
+Grille  221  p = 5  Buffer chaines: 388/50000  Risque = false  Duree cumulee = 1h7m14s
+Grille  222  p = 5  Buffer chaines: 485/50000  Risque = false  Duree cumulee = 1h7m34s
+Grille  223  p = 4  Buffer chaines: 90/50000  Risque = false  Duree cumulee = 1h7m47s
+Grille  224  p = 4  Buffer chaines: 170/50000  Risque = false  Duree cumulee = 1h8m15s
+Grille  225  p = 4  Buffer chaines: 70/50000  Risque = false  Duree cumulee = 1h8m24s
+Grille  226  p = 6  Buffer chaines: 913/50000  Risque = false  Duree cumulee = 1h9m16s
+Grille  227  p = 4  Buffer chaines: 210/50000  Risque = false  Duree cumulee = 1h9m31s
+Grille  228  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 1h9m32s
+Grille  229  p = 5  Buffer chaines: 400/50000  Risque = false  Duree cumulee = 1h9m56s
+Grille  230  p = 4  Buffer chaines: 97/50000  Risque = false  Duree cumulee = 1h10m11s
+Grille  231  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 1h10m15s
+Grille  232  p = 5  Buffer chaines: 1143/50000  Risque = false  Duree cumulee = 1h10m24s
+Grille  233  p = 5  Buffer chaines: 514/50000  Risque = false  Duree cumulee = 1h10m35s
+Grille  234  p = 5  Buffer chaines: 514/50000  Risque = false  Duree cumulee = 1h10m46s
+Grille  235  p = 5  Buffer chaines: 289/50000  Risque = false  Duree cumulee = 1h11m12s
+Grille  236  p = 4  Buffer chaines: 272/50000  Risque = false  Duree cumulee = 1h11m31s
+Grille  237  p = 5  Buffer chaines: 313/50000  Risque = false  Duree cumulee = 1h11m49s
+Grille  238  p = 5  Buffer chaines: 320/50000  Risque = false  Duree cumulee = 1h12m14s
+Grille  239  p = 4  Buffer chaines: 256/50000  Risque = false  Duree cumulee = 1h12m45s
+Grille  240  p = 5  Buffer chaines: 564/50000  Risque = false  Duree cumulee = 1h13m15s
+Grille  241  p = 5  Buffer chaines: 551/50000  Risque = false  Duree cumulee = 1h13m39s
+Grille  242  p = 4  Buffer chaines: 134/50000  Risque = false  Duree cumulee = 1h13m45s
+Grille  243  p = 4  Buffer chaines: 105/50000  Risque = false  Duree cumulee = 1h13m56s
+Grille  244  p = 4  Buffer chaines: 159/50000  Risque = false  Duree cumulee = 1h14m12s
+Grille  245  p = 4  Buffer chaines: 68/50000  Risque = false  Duree cumulee = 1h14m14s
+Grille  246  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 1h14m15s
+Grille  247  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 1h14m16s
+Grille  248  p = 5  Buffer chaines: 530/50000  Risque = false  Duree cumulee = 1h14m33s
+Grille  249  p = 4  Buffer chaines: 222/50000  Risque = false  Duree cumulee = 1h14m35s
+Grille  250  p = 5  Buffer chaines: 687/50000  Risque = false  Duree cumulee = 1h15m8s
+Grille  251  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 1h15m22s
+Grille  252  p = 4  Buffer chaines: 86/50000  Risque = false  Duree cumulee = 1h15m29s
+Grille  253  p = 4  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 1h15m32s
+Grille  254  p = 4  Buffer chaines: 229/50000  Risque = false  Duree cumulee = 1h16m2s
+Grille  255  p = 4  Buffer chaines: 90/50000  Risque = false  Duree cumulee = 1h16m5s
+Grille  256  p = 4  Buffer chaines: 158/50000  Risque = false  Duree cumulee = 1h16m13s
+Grille  257  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 1h16m18s
+Grille  258  p = 5  Buffer chaines: 285/50000  Risque = false  Duree cumulee = 1h16m48s
+Grille  259  p = 4  Buffer chaines: 91/50000  Risque = false  Duree cumulee = 1h16m56s
+Grille  260  p = 5  Buffer chaines: 610/50000  Risque = false  Duree cumulee = 1h17m21s
+Grille  261  p = 4  Buffer chaines: 197/50000  Risque = false  Duree cumulee = 1h17m36s
+Grille  262  p = 5  Buffer chaines: 243/50000  Risque = false  Duree cumulee = 1h17m46s
+Grille  263  p = 4  Buffer chaines: 54/50000  Risque = false  Duree cumulee = 1h17m49s
+Nombre de grilles traitees: 263
+Nombre de grilles non resolues: 0
+
+
+SER 11.3
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 4  Buffer chaines: 181/50000  Risque = false  Duree cumulee = 0h0m13s
+Grille  2  p = 4  Buffer chaines: 239/50000  Risque = false  Duree cumulee = 0h0m24s
+Grille  3  p = 4  Buffer chaines: 62/50000  Risque = false  Duree cumulee = 0h0m29s
+Grille  4  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h0m32s
+Grille  5  p = 4  Buffer chaines: 204/50000  Risque = false  Duree cumulee = 0h1m1s
+Grille  6  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h1m6s
+Grille  7  p = 4  Buffer chaines: 165/50000  Risque = false  Duree cumulee = 0h1m22s
+Grille  8  p = 4  Buffer chaines: 93/50000  Risque = false  Duree cumulee = 0h1m24s
+Grille  9  p = 4  Buffer chaines: 230/50000  Risque = false  Duree cumulee = 0h1m40s
+Grille  10  p = 4  Buffer chaines: 151/50000  Risque = false  Duree cumulee = 0h1m45s
+Grille  11  p = 4  Buffer chaines: 136/50000  Risque = false  Duree cumulee = 0h1m53s
+Grille  12  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h2m1s
+Grille  13  p = 4  Buffer chaines: 238/50000  Risque = false  Duree cumulee = 0h2m23s
+Grille  14  p = 4  Buffer chaines: 182/50000  Risque = false  Duree cumulee = 0h2m39s
+Grille  15  p = 4  Buffer chaines: 149/50000  Risque = false  Duree cumulee = 0h2m53s
+Grille  16  p = 4  Buffer chaines: 184/50000  Risque = false  Duree cumulee = 0h3m3s
+Grille  17  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h3m9s
+Grille  18  p = 4  Buffer chaines: 140/50000  Risque = false  Duree cumulee = 0h3m22s
+Grille  19  p = 4  Buffer chaines: 136/50000  Risque = false  Duree cumulee = 0h3m27s
+Grille  20  p = 4  Buffer chaines: 151/50000  Risque = false  Duree cumulee = 0h3m45s
+Grille  21  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h3m52s
+Grille  22  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h3m56s
+Grille  23  p = 4  Buffer chaines: 145/50000  Risque = false  Duree cumulee = 0h4m1s
+Grille  24  p = 5  Buffer chaines: 492/50000  Risque = false  Duree cumulee = 0h4m30s
+Grille  25  p = 4  Buffer chaines: 153/50000  Risque = false  Duree cumulee = 0h4m41s
+Grille  26  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h4m43s
+Grille  27  p = 3  Buffer chaines: 61/50000  Risque = false  Duree cumulee = 0h4m50s
+Grille  28  p = 4  Buffer chaines: 177/50000  Risque = false  Duree cumulee = 0h5m7s
+Grille  29  p = 4  Buffer chaines: 223/50000  Risque = false  Duree cumulee = 0h5m18s
+Grille  30  p = 4  Buffer chaines: 223/50000  Risque = false  Duree cumulee = 0h5m49s
+Grille  31  p = 4  Buffer chaines: 194/50000  Risque = false  Duree cumulee = 0h5m57s
+Grille  32  p = 4  Buffer chaines: 167/50000  Risque = false  Duree cumulee = 0h6m10s
+Grille  33  p = 4  Buffer chaines: 75/50000  Risque = false  Duree cumulee = 0h6m20s
+Grille  34  p = 4  Buffer chaines: 87/50000  Risque = false  Duree cumulee = 0h6m26s
+Grille  35  p = 3  Buffer chaines: 65/50000  Risque = false  Duree cumulee = 0h6m35s
+Grille  36  p = 4  Buffer chaines: 276/50000  Risque = false  Duree cumulee = 0h6m50s
+Grille  37  p = 5  Buffer chaines: 416/50000  Risque = false  Duree cumulee = 0h7m13s
+Grille  38  p = 4  Buffer chaines: 193/50000  Risque = false  Duree cumulee = 0h7m38s
+Grille  39  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h7m41s
+Grille  40  p = 4  Buffer chaines: 115/50000  Risque = false  Duree cumulee = 0h7m45s
+Grille  41  p = 5  Buffer chaines: 553/50000  Risque = false  Duree cumulee = 0h8m12s
+Grille  42  p = 4  Buffer chaines: 135/50000  Risque = false  Duree cumulee = 0h8m27s
+Grille  43  p = 4  Buffer chaines: 214/50000  Risque = false  Duree cumulee = 0h8m29s
+Grille  44  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h8m34s
+Grille  45  p = 4  Buffer chaines: 199/50000  Risque = false  Duree cumulee = 0h8m49s
+Grille  46  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h8m52s
+Grille  47  p = 4  Buffer chaines: 105/50000  Risque = false  Duree cumulee = 0h9m5s
+Grille  48  p = 4  Buffer chaines: 94/50000  Risque = false  Duree cumulee = 0h9m13s
+Grille  49  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h9m22s
+Grille  50  p = 4  Buffer chaines: 96/50000  Risque = false  Duree cumulee = 0h9m26s
+Grille  51  p = 5  Buffer chaines: 634/50000  Risque = false  Duree cumulee = 0h9m38s
+Grille  52  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h9m43s
+Grille  53  p = 5  Buffer chaines: 643/50000  Risque = false  Duree cumulee = 0h10m10s
+Grille  54  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h10m12s
+Grille  55  p = 4  Buffer chaines: 119/50000  Risque = false  Duree cumulee = 0h10m16s
+Grille  56  p = 5  Buffer chaines: 214/50000  Risque = false  Duree cumulee = 0h10m29s
+Grille  57  p = 4  Buffer chaines: 240/50000  Risque = false  Duree cumulee = 0h10m39s
+Grille  58  p = 5  Buffer chaines: 411/50000  Risque = false  Duree cumulee = 0h10m57s
+Grille  59  p = 4  Buffer chaines: 190/50000  Risque = false  Duree cumulee = 0h11m7s
+Grille  60  p = 3  Buffer chaines: 54/50000  Risque = false  Duree cumulee = 0h11m17s
+Grille  61  p = 4  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 0h11m25s
+Grille  62  p = 4  Buffer chaines: 92/50000  Risque = false  Duree cumulee = 0h11m31s
+Grille  63  p = 4  Buffer chaines: 242/50000  Risque = false  Duree cumulee = 0h11m45s
+Grille  64  p = 4  Buffer chaines: 280/50000  Risque = false  Duree cumulee = 0h11m55s
+Grille  65  p = 4  Buffer chaines: 75/50000  Risque = false  Duree cumulee = 0h11m58s
+Grille  66  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h11m59s
+Grille  67  p = 4  Buffer chaines: 179/50000  Risque = false  Duree cumulee = 0h12m12s
+Grille  68  p = 4  Buffer chaines: 340/50000  Risque = false  Duree cumulee = 0h12m49s
+Grille  69  p = 4  Buffer chaines: 300/50000  Risque = false  Duree cumulee = 0h13m12s
+Grille  70  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h13m14s
+Grille  71  p = 4  Buffer chaines: 187/50000  Risque = false  Duree cumulee = 0h13m25s
+Grille  72  p = 5  Buffer chaines: 358/50000  Risque = false  Duree cumulee = 0h13m58s
+Grille  73  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h14m0s
+Grille  74  p = 4  Buffer chaines: 146/50000  Risque = false  Duree cumulee = 0h14m15s
+Grille  75  p = 4  Buffer chaines: 179/50000  Risque = false  Duree cumulee = 0h14m25s
+Grille  76  p = 4  Buffer chaines: 179/50000  Risque = false  Duree cumulee = 0h14m40s
+Grille  77  p = 4  Buffer chaines: 170/50000  Risque = false  Duree cumulee = 0h14m53s
+Grille  78  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h14m58s
+Grille  79  p = 4  Buffer chaines: 62/50000  Risque = false  Duree cumulee = 0h15m0s
+Grille  80  p = 4  Buffer chaines: 121/50000  Risque = false  Duree cumulee = 0h15m13s
+Grille  81  p = 4  Buffer chaines: 192/50000  Risque = false  Duree cumulee = 0h15m25s
+Grille  82  p = 4  Buffer chaines: 263/50000  Risque = false  Duree cumulee = 0h15m50s
+Grille  83  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h15m51s
+Grille  84  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h15m53s
+Grille  85  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h15m57s
+Grille  86  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h15m59s
+Grille  87  p = 4  Buffer chaines: 186/50000  Risque = false  Duree cumulee = 0h16m27s
+Grille  88  p = 5  Buffer chaines: 481/50000  Risque = false  Duree cumulee = 0h16m43s
+Grille  89  p = 3  Buffer chaines: 14/50000  Risque = false  Duree cumulee = 0h16m45s
+Grille  90  p = 5  Buffer chaines: 401/50000  Risque = false  Duree cumulee = 0h17m11s
+Grille  91  p = 4  Buffer chaines: 173/50000  Risque = false  Duree cumulee = 0h17m36s
+Grille  92  p = 4  Buffer chaines: 180/50000  Risque = false  Duree cumulee = 0h18m1s
+Grille  93  p = 4  Buffer chaines: 507/50000  Risque = false  Duree cumulee = 0h18m31s
+Grille  94  p = 4  Buffer chaines: 191/50000  Risque = false  Duree cumulee = 0h18m43s
+Grille  95  p = 4  Buffer chaines: 136/50000  Risque = false  Duree cumulee = 0h18m56s
+Grille  96  p = 5  Buffer chaines: 1049/50000  Risque = false  Duree cumulee = 0h19m13s
+Grille  97  p = 5  Buffer chaines: 266/50000  Risque = false  Duree cumulee = 0h19m39s
+Grille  98  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 0h19m49s
+Grille  99  p = 4  Buffer chaines: 203/50000  Risque = false  Duree cumulee = 0h20m7s
+Grille  100  p = 4  Buffer chaines: 139/50000  Risque = false  Duree cumulee = 0h20m18s
+Nombre de grilles traitees: 100
+Nombre de grilles non resolues: 0
+
+
+
+SER 11.2
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h0m9s
+Grille  2  p = 4  Buffer chaines: 216/50000  Risque = false  Duree cumulee = 0h0m34s
+Grille  3  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h0m40s
+Grille  4  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h0m43s
+Grille  5  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h0m46s
+Grille  6  p = 4  Buffer chaines: 132/50000  Risque = false  Duree cumulee = 0h0m55s
+Grille  7  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h0m57s
+Grille  8  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h0m58s
+Grille  9  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h1m1s
+Grille  10  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h1m16s
+Grille  11  p = 4  Buffer chaines: 126/50000  Risque = false  Duree cumulee = 0h1m24s
+Grille  12  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m25s
+Grille  13  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h1m28s
+Grille  14  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h1m31s
+Grille  15  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h1m34s
+Grille  16  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h1m35s
+Grille  17  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h1m37s
+Grille  18  p = 4  Buffer chaines: 111/50000  Risque = false  Duree cumulee = 0h1m40s
+Grille  19  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h1m43s
+Grille  20  p = 4  Buffer chaines: 109/50000  Risque = false  Duree cumulee = 0h1m52s
+Grille  21  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h1m56s
+Grille  22  p = 4  Buffer chaines: 207/50000  Risque = false  Duree cumulee = 0h2m7s
+Grille  23  p = 4  Buffer chaines: 191/50000  Risque = false  Duree cumulee = 0h2m12s
+Grille  24  p = 4  Buffer chaines: 162/50000  Risque = false  Duree cumulee = 0h2m19s
+Grille  25  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 0h2m23s
+Grille  26  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 0h2m27s
+Grille  27  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h2m32s
+Grille  28  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h2m32s
+Grille  29  p = 4  Buffer chaines: 153/50000  Risque = false  Duree cumulee = 0h2m48s
+Grille  30  p = 4  Buffer chaines: 114/50000  Risque = false  Duree cumulee = 0h2m52s
+Grille  31  p = 4  Buffer chaines: 258/50000  Risque = false  Duree cumulee = 0h3m15s
+Grille  32  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h3m18s
+Grille  33  p = 4  Buffer chaines: 186/50000  Risque = false  Duree cumulee = 0h3m40s
+Grille  34  p = 4  Buffer chaines: 62/50000  Risque = false  Duree cumulee = 0h3m47s
+Grille  35  p = 5  Buffer chaines: 693/50000  Risque = false  Duree cumulee = 0h4m6s
+Grille  36  p = 4  Buffer chaines: 198/50000  Risque = false  Duree cumulee = 0h4m18s
+Grille  37  p = 4  Buffer chaines: 165/50000  Risque = false  Duree cumulee = 0h4m25s
+Grille  38  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h4m26s
+Grille  39  p = 4  Buffer chaines: 177/50000  Risque = false  Duree cumulee = 0h4m35s
+Grille  40  p = 5  Buffer chaines: 379/50000  Risque = false  Duree cumulee = 0h4m54s
+Grille  41  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h5m1s
+Grille  42  p = 4  Buffer chaines: 121/50000  Risque = false  Duree cumulee = 0h5m20s
+Grille  43  p = 4  Buffer chaines: 257/50000  Risque = false  Duree cumulee = 0h5m43s
+Grille  44  p = 4  Buffer chaines: 85/50000  Risque = false  Duree cumulee = 0h5m47s
+Grille  45  p = 4  Buffer chaines: 230/50000  Risque = false  Duree cumulee = 0h6m0s
+Grille  46  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h6m4s
+Grille  47  p = 5  Buffer chaines: 639/50000  Risque = false  Duree cumulee = 0h6m53s
+Grille  48  p = 4  Buffer chaines: 143/50000  Risque = false  Duree cumulee = 0h7m6s
+Grille  49  p = 4  Buffer chaines: 217/50000  Risque = false  Duree cumulee = 0h7m10s
+Grille  50  p = 4  Buffer chaines: 231/50000  Risque = false  Duree cumulee = 0h7m18s
+Grille  51  p = 4  Buffer chaines: 147/50000  Risque = false  Duree cumulee = 0h7m30s
+Grille  52  p = 4  Buffer chaines: 168/50000  Risque = false  Duree cumulee = 0h7m38s
+Grille  53  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h7m41s
+Grille  54  p = 4  Buffer chaines: 133/50000  Risque = false  Duree cumulee = 0h7m52s
+Grille  55  p = 4  Buffer chaines: 258/50000  Risque = false  Duree cumulee = 0h8m17s
+Grille  56  p = 4  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h8m20s
+Grille  57  p = 3  Buffer chaines: 14/50000  Risque = false  Duree cumulee = 0h8m22s
+Grille  58  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h8m23s
+Grille  59  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h8m33s
+Grille  60  p = 4  Buffer chaines: 100/50000  Risque = false  Duree cumulee = 0h8m46s
+Grille  61  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h8m49s
+Grille  62  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h8m55s
+Grille  63  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h8m59s
+Grille  64  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h9m5s
+Grille  65  p = 4  Buffer chaines: 118/50000  Risque = false  Duree cumulee = 0h9m18s
+Grille  66  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h9m22s
+Grille  67  p = 5  Buffer chaines: 600/50000  Risque = false  Duree cumulee = 0h9m52s
+Grille  68  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h9m53s
+Grille  69  p = 4  Buffer chaines: 210/50000  Risque = false  Duree cumulee = 0h10m2s
+Grille  70  p = 5  Buffer chaines: 251/50000  Risque = false  Duree cumulee = 0h10m18s
+Grille  71  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h10m22s
+Grille  72  p = 4  Buffer chaines: 319/50000  Risque = false  Duree cumulee = 0h10m33s
+Grille  73  p = 4  Buffer chaines: 180/50000  Risque = false  Duree cumulee = 0h10m44s
+Grille  74  p = 4  Buffer chaines: 195/50000  Risque = false  Duree cumulee = 0h11m3s
+Grille  75  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h11m15s
+Grille  76  p = 3  Buffer chaines: 21/50000  Risque = false  Duree cumulee = 0h11m17s
+Grille  77  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h11m21s
+Grille  78  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h11m25s
+Grille  79  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h11m31s
+Grille  80  p = 4  Buffer chaines: 159/50000  Risque = false  Duree cumulee = 0h11m43s
+Grille  81  p = 4  Buffer chaines: 225/50000  Risque = false  Duree cumulee = 0h12m3s
+Grille  82  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h12m6s
+Grille  83  p = 3  Buffer chaines: 57/50000  Risque = false  Duree cumulee = 0h12m11s
+Grille  84  p = 5  Buffer chaines: 224/50000  Risque = false  Duree cumulee = 0h12m31s
+Grille  85  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h12m37s
+Grille  86  p = 4  Buffer chaines: 153/50000  Risque = false  Duree cumulee = 0h12m45s
+Grille  87  p = 4  Buffer chaines: 109/50000  Risque = false  Duree cumulee = 0h12m50s
+Grille  88  p = 3  Buffer chaines: 45/50000  Risque = false  Duree cumulee = 0h13m2s
+Grille  89  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h13m5s
+Grille  90  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h13m8s
+Grille  91  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h13m32s
+Grille  92  p = 5  Buffer chaines: 789/50000  Risque = false  Duree cumulee = 0h14m4s
+Grille  93  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h14m8s
+Grille  94  p = 4  Buffer chaines: 292/50000  Risque = false  Duree cumulee = 0h14m32s
+Grille  95  p = 4  Buffer chaines: 213/50000  Risque = false  Duree cumulee = 0h14m45s
+Grille  96  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h14m47s
+Grille  97  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h15m4s
+Grille  98  p = 4  Buffer chaines: 400/50000  Risque = false  Duree cumulee = 0h15m29s
+Grille  99  p = 4  Buffer chaines: 222/50000  Risque = false  Duree cumulee = 0h15m41s
+Grille  100  p = 5  Buffer chaines: 266/50000  Risque = false  Duree cumulee = 0h15m56s
+Nombre de grilles traitees: 100
+Nombre de grilles non resolues: 0
+
+
+
+SER 11.1
+*** Traitement des grilles d'un fichier: rating BpB
+Tenir compte de la solution
+Grille  1  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h0m6s
+Grille  2  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h0m9s
+Grille  3  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h0m11s
+Grille  4  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h0m13s
+Grille  5  p = 3  Buffer chaines: 13/50000  Risque = false  Duree cumulee = 0h0m14s
+Grille  6  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h0m18s
+Grille  7  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h0m24s
+Grille  8  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h0m26s
+Grille  9  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h0m27s
+Grille  10  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h0m32s
+Grille  11  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h0m34s
+Grille  12  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h0m42s
+Grille  13  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h0m45s
+Grille  14  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h0m47s
+Grille  15  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h0m48s
+Grille  16  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h0m49s
+Grille  17  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h0m51s
+Grille  18  p = 3  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h0m52s
+Grille  19  p = 4  Buffer chaines: 159/50000  Risque = false  Duree cumulee = 0h1m3s
+Grille  20  p = 4  Buffer chaines: 159/50000  Risque = false  Duree cumulee = 0h1m13s
+Grille  21  p = 3  Buffer chaines: 50/50000  Risque = false  Duree cumulee = 0h1m24s
+Grille  22  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h1m25s
+Grille  23  p = 5  Buffer chaines: 775/50000  Risque = false  Duree cumulee = 0h1m47s
+Grille  24  p = 4  Buffer chaines: 166/50000  Risque = false  Duree cumulee = 0h1m55s
+Grille  25  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h1m59s
+Grille  26  p = 4  Buffer chaines: 122/50000  Risque = false  Duree cumulee = 0h2m2s
+Grille  27  p = 4  Buffer chaines: 170/50000  Risque = false  Duree cumulee = 0h2m14s
+Grille  28  p = 4  Buffer chaines: 170/50000  Risque = false  Duree cumulee = 0h2m26s
+Grille  29  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 0h2m26s
+Grille  30  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h2m28s
+Grille  31  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h2m31s
+Grille  32  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h2m34s
+Grille  33  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h2m41s
+Grille  34  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h2m42s
+Grille  35  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h2m45s
+Grille  36  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h2m48s
+Grille  37  p = 4  Buffer chaines: 165/50000  Risque = false  Duree cumulee = 0h2m51s
+Grille  38  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h2m53s
+Grille  39  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h3m1s
+Grille  40  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h3m3s
+Grille  41  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h3m4s
+Grille  42  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h3m10s
+Grille  43  p = 4  Buffer chaines: 114/50000  Risque = false  Duree cumulee = 0h3m21s
+Grille  44  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h3m25s
+Grille  45  p = 4  Buffer chaines: 89/50000  Risque = false  Duree cumulee = 0h3m31s
+Grille  46  p = 4  Buffer chaines: 270/50000  Risque = false  Duree cumulee = 0h3m52s
+Grille  47  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h3m53s
+Grille  48  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h3m55s
+Grille  49  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h4m0s
+Grille  50  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h4m8s
+Grille  51  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h4m11s
+Grille  52  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h4m15s
+Grille  53  p = 4  Buffer chaines: 272/50000  Risque = false  Duree cumulee = 0h4m22s
+Grille  54  p = 4  Buffer chaines: 240/50000  Risque = false  Duree cumulee = 0h4m35s
+Grille  55  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h4m36s
+Grille  56  p = 4  Buffer chaines: 188/50000  Risque = false  Duree cumulee = 0h4m41s
+Grille  57  p = 4  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h4m48s
+Grille  58  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h4m51s
+Grille  59  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h4m53s
+Grille  60  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h4m55s
+Grille  61  p = 3  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h5m0s
+Grille  62  p = 3  Buffer chaines: 70/50000  Risque = false  Duree cumulee = 0h5m3s
+Grille  63  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h5m5s
+Grille  64  p = 3  Buffer chaines: 21/50000  Risque = false  Duree cumulee = 0h5m7s
+Grille  65  p = 4  Buffer chaines: 90/50000  Risque = false  Duree cumulee = 0h5m23s
+Grille  66  p = 3  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 0h5m32s
+Grille  67  p = 4  Buffer chaines: 178/50000  Risque = false  Duree cumulee = 0h6m2s
+Grille  68  p = 4  Buffer chaines: 135/50000  Risque = false  Duree cumulee = 0h6m6s
+Grille  69  p = 3  Buffer chaines: 44/50000  Risque = false  Duree cumulee = 0h6m13s
+Grille  70  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h6m16s
+Grille  71  p = 4  Buffer chaines: 176/50000  Risque = false  Duree cumulee = 0h6m39s
+Grille  72  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h6m40s
+Grille  73  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h6m41s
+Grille  74  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h6m48s
+Grille  75  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h6m56s
+Grille  76  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h6m58s
+Grille  77  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 0h7m0s
+Grille  78  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h7m8s
+Grille  79  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m9s
+Grille  80  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h7m12s
+Grille  81  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h7m14s
+Grille  82  p = 4  Buffer chaines: 117/50000  Risque = false  Duree cumulee = 0h7m19s
+Grille  83  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h7m28s
+Grille  84  p = 4  Buffer chaines: 240/50000  Risque = false  Duree cumulee = 0h7m50s
+Grille  85  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h7m57s
+Grille  86  p = 4  Buffer chaines: 131/50000  Risque = false  Duree cumulee = 0h8m7s
+Grille  87  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h8m9s
+Grille  88  p = 4  Buffer chaines: 145/50000  Risque = false  Duree cumulee = 0h8m19s
+Grille  89  p = 4  Buffer chaines: 88/50000  Risque = false  Duree cumulee = 0h8m26s
+Grille  90  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h8m30s
+Grille  91  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h8m31s
+Grille  92  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h8m33s
+Grille  93  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h8m37s
+Grille  94  p = 4  Buffer chaines: 125/50000  Risque = false  Duree cumulee = 0h8m46s
+Grille  95  p = 4  Buffer chaines: 216/50000  Risque = false  Duree cumulee = 0h9m8s
+Grille  96  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h9m12s
+Grille  97  p = 4  Buffer chaines: 177/50000  Risque = false  Duree cumulee = 0h9m24s
+Grille  98  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h9m29s
+Grille  99  p = 4  Buffer chaines: 175/50000  Risque = false  Duree cumulee = 0h9m58s
+Grille  100  p = 4  Buffer chaines: 321/50000  Risque = false  Duree cumulee = 0h10m31s
+Nombre de grilles traitees: 100
+Nombre de grilles non resolues: 0
+
+
+
+SER 11.0 to 10.6
+*** Traitement des grilles d'un fichier: rating BpB
+
+Tenir compte de la solution
+Grille  1  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h0m7s
+Grille  2  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h0m9s
+Grille  3  p = 4  Buffer chaines: 78/50000  Risque = false  Duree cumulee = 0h0m12s
+Grille  4  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h0m14s
+Grille  5  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h0m15s
+Grille  6  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h0m17s
+Grille  7  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 0h0m19s
+Grille  8  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h0m20s
+Grille  9  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h0m27s
+Grille  10  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h0m28s
+Grille  11  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h0m29s
+Grille  12  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h0m33s
+Grille  13  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h0m34s
+Grille  14  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h0m35s
+Grille  15  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h0m36s
+Grille  16  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h0m39s
+Grille  17  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h0m40s
+Grille  18  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h0m41s
+Grille  19  p = 4  Buffer chaines: 144/50000  Risque = false  Duree cumulee = 0h0m48s
+Grille  20  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h0m49s
+Grille  21  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h0m50s
+Grille  22  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h0m54s
+Grille  23  p = 2  Buffer chaines: 4/50000  Risque = false  Duree cumulee = 0h0m55s
+Grille  24  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h1m5s
+Grille  25  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h1m5s
+Grille  26  p = 3  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h1m6s
+Grille  27  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h1m8s
+Grille  28  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h1m8s
+Grille  29  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h1m10s
+Grille  30  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h1m11s
+Grille  31  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h1m13s
+Grille  32  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m16s
+Grille  33  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h1m18s
+Grille  34  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m19s
+Grille  35  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h1m22s
+Grille  36  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m24s
+Grille  37  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m25s
+Grille  38  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h1m28s
+Grille  39  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h1m28s
+Grille  40  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h1m29s
+Grille  41  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h1m31s
+Grille  42  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h1m32s
+Grille  43  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h1m33s
+Grille  44  p = 3  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h1m36s
+Grille  45  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h1m38s
+Grille  46  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h1m41s
+Grille  47  p = 2  Buffer chaines: 4/50000  Risque = false  Duree cumulee = 0h1m41s
+Grille  48  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h1m42s
+Grille  49  p = 3  Buffer chaines: 45/50000  Risque = false  Duree cumulee = 0h2m0s
+Grille  50  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h2m12s
+Grille  51  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h2m18s
+Grille  52  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h2m20s
+Grille  53  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h2m27s
+Grille  54  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h2m28s
+Grille  55  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h2m31s
+Grille  56  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h2m32s
+Grille  57  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h2m36s
+Grille  58  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h2m42s
+Grille  59  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h2m44s
+Grille  60  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h2m50s
+Grille  61  p = 3  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h3m5s
+Grille  62  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h3m7s
+Grille  63  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h3m10s
+Grille  64  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h3m16s
+Grille  65  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h3m19s
+Grille  66  p = 3  Buffer chaines: 63/50000  Risque = false  Duree cumulee = 0h3m26s
+Grille  67  p = 4  Buffer chaines: 220/50000  Risque = false  Duree cumulee = 0h3m31s
+Grille  68  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h3m36s
+Grille  69  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h3m42s
+Grille  70  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h3m48s
+Grille  71  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h3m53s
+Grille  72  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h3m55s
+Grille  73  p = 4  Buffer chaines: 84/50000  Risque = false  Duree cumulee = 0h4m3s
+Grille  74  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h4m9s
+Grille  75  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h4m12s
+Grille  76  p = 4  Buffer chaines: 103/50000  Risque = false  Duree cumulee = 0h4m18s
+Grille  77  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h4m22s
+Grille  78  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h4m25s
+Grille  79  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h4m26s
+Grille  80  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h4m29s
+Grille  81  p = 3  Buffer chaines: 54/50000  Risque = false  Duree cumulee = 0h4m30s
+Grille  82  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h4m32s
+Grille  83  p = 3  Buffer chaines: 44/50000  Risque = false  Duree cumulee = 0h4m36s
+Grille  84  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h4m39s
+Grille  85  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h4m40s
+Grille  86  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h4m44s
+Grille  87  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h4m44s
+Grille  88  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h4m46s
+Grille  89  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h4m47s
+Grille  90  p = 4  Buffer chaines: 227/50000  Risque = false  Duree cumulee = 0h5m3s
+Grille  91  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h5m5s
+Grille  92  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h5m6s
+Grille  93  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h5m8s
+Grille  94  p = 4  Buffer chaines: 250/50000  Risque = false  Duree cumulee = 0h5m20s
+Grille  95  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h5m20s
+Grille  96  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h5m21s
+Grille  97  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h5m22s
+Grille  98  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h5m24s
+Grille  99  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h5m26s
+Grille  100  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h5m29s
+Grille  101  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h5m30s
+Grille  102  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h5m31s
+Grille  103  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h5m36s
+Grille  104  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h5m37s
+Grille  105  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h5m39s
+Grille  106  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h5m42s
+Grille  107  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h5m42s
+Grille  108  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h5m48s
+Grille  109  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h5m50s
+Grille  110  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h5m51s
+Grille  111  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h5m53s
+Grille  112  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h5m56s
+Grille  113  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m3s
+Grille  114  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h6m4s
+Grille  115  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m6s
+Grille  116  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h6m7s
+Grille  117  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h6m9s
+Grille  118  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m11s
+Grille  119  p = 4  Buffer chaines: 130/50000  Risque = false  Duree cumulee = 0h6m23s
+Grille  120  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m26s
+Grille  121  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h6m27s
+Grille  122  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h6m28s
+Grille  123  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h6m34s
+Grille  124  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h6m38s
+Grille  125  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h6m39s
+Grille  126  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m41s
+Grille  127  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h6m44s
+Grille  128  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h6m47s
+Grille  129  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h6m50s
+Grille  130  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h6m55s
+Grille  131  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m56s
+Grille  132  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m57s
+Grille  133  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h6m57s
+Grille  134  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h6m58s
+Grille  135  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h6m59s
+Grille  136  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m2s
+Grille  137  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h7m3s
+Grille  138  p = 4  Buffer chaines: 284/50000  Risque = false  Duree cumulee = 0h7m18s
+Grille  139  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m19s
+Grille  140  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h7m19s
+Grille  141  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h7m20s
+Grille  142  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h7m20s
+Grille  143  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m24s
+Grille  144  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m25s
+Grille  145  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h7m26s
+Grille  146  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m27s
+Grille  147  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m27s
+Grille  148  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m28s
+Grille  149  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h7m28s
+Grille  150  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h7m31s
+Grille  151  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h7m34s
+Grille  152  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h7m36s
+Grille  153  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m39s
+Grille  154  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h7m41s
+Grille  155  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h7m42s
+Grille  156  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m45s
+Grille  157  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h7m46s
+Grille  158  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h7m48s
+Grille  159  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m49s
+Grille  160  p = 3  Buffer chaines: 50/50000  Risque = false  Duree cumulee = 0h7m54s
+Grille  161  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h7m55s
+Grille  162  p = 3  Buffer chaines: 44/50000  Risque = false  Duree cumulee = 0h7m59s
+Grille  163  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h8m2s
+Grille  164  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h8m4s
+Grille  165  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h8m7s
+Grille  166  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h8m12s
+Grille  167  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h8m14s
+Grille  168  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h8m17s
+Grille  169  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h8m20s
+Grille  170  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h8m24s
+Grille  171  p = 4  Buffer chaines: 116/50000  Risque = false  Duree cumulee = 0h8m39s
+Grille  172  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h8m49s
+Grille  173  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h8m50s
+Grille  174  p = 2  Buffer chaines: 4/50000  Risque = false  Duree cumulee = 0h8m50s
+Grille  175  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h8m52s
+Grille  176  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h8m54s
+Grille  177  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h8m54s
+Grille  178  p = 4  Buffer chaines: 212/50000  Risque = false  Duree cumulee = 0h9m0s
+Grille  179  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h9m1s
+Grille  180  p = 4  Buffer chaines: 111/50000  Risque = false  Duree cumulee = 0h9m9s
+Grille  181  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h9m11s
+Grille  182  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h9m12s
+Grille  183  p = 4  Buffer chaines: 207/50000  Risque = false  Duree cumulee = 0h9m21s
+Grille  184  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h9m23s
+Grille  185  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h9m24s
+Grille  186  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h9m24s
+Grille  187  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h9m26s
+Grille  188  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h9m27s
+Grille  189  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h9m28s
+Grille  190  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h9m30s
+Grille  191  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h9m32s
+Grille  192  p = 2  Buffer chaines: 12/50000  Risque = false  Duree cumulee = 0h9m34s
+Grille  193  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h9m39s
+Grille  194  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h9m41s
+Grille  195  p = 4  Buffer chaines: 139/50000  Risque = false  Duree cumulee = 0h9m48s
+Grille  196  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h9m49s
+Grille  197  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h9m49s
+Grille  198  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h9m51s
+Grille  199  p = 2  Buffer chaines: 13/50000  Risque = false  Duree cumulee = 0h10m0s
+Grille  200  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h10m2s
+Grille  201  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h10m5s
+Grille  202  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h10m10s
+Grille  203  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h10m11s
+Grille  204  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h10m13s
+Grille  205  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h10m15s
+Grille  206  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h10m20s
+Grille  207  p = 3  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h10m23s
+Grille  208  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h10m24s
+Grille  209  p = 5  Buffer chaines: 506/50000  Risque = false  Duree cumulee = 0h11m20s
+Grille  210  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h11m21s
+Grille  211  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h11m27s
+Grille  212  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h11m28s
+Grille  213  p = 4  Buffer chaines: 59/50000  Risque = false  Duree cumulee = 0h11m33s
+Grille  214  p = 4  Buffer chaines: 102/50000  Risque = false  Duree cumulee = 0h11m39s
+Grille  215  p = 3  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h11m40s
+Grille  216  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h11m41s
+Grille  217  p = 4  Buffer chaines: 179/50000  Risque = false  Duree cumulee = 0h11m50s
+Grille  218  p = 4  Buffer chaines: 133/50000  Risque = false  Duree cumulee = 0h12m7s
+Grille  219  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h12m15s
+Grille  220  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h12m17s
+Grille  221  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h12m19s
+Grille  222  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h12m19s
+Grille  223  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h12m20s
+Grille  224  p = 4  Buffer chaines: 480/50000  Risque = false  Duree cumulee = 0h12m42s
+Grille  225  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h12m46s
+Grille  226  p = 4  Buffer chaines: 146/50000  Risque = false  Duree cumulee = 0h13m0s
+Grille  227  p = 4  Buffer chaines: 156/50000  Risque = false  Duree cumulee = 0h13m10s
+Grille  228  p = 4  Buffer chaines: 120/50000  Risque = false  Duree cumulee = 0h13m26s
+Grille  229  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h13m27s
+Grille  230  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h13m30s
+Grille  231  p = 3  Buffer chaines: 68/50000  Risque = false  Duree cumulee = 0h13m37s
+Grille  232  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h13m38s
+Grille  233  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h13m39s
+Grille  234  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h13m45s
+Grille  235  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 0h13m58s
+Grille  236  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h14m0s
+Grille  237  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h14m14s
+Grille  238  p = 3  Buffer chaines: 18/50000  Risque = false  Duree cumulee = 0h14m16s
+Grille  239  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h14m17s
+Grille  240  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h14m18s
+Grille  241  p = 4  Buffer chaines: 137/50000  Risque = false  Duree cumulee = 0h14m30s
+Grille  242  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h14m37s
+Grille  243  p = 4  Buffer chaines: 157/50000  Risque = false  Duree cumulee = 0h14m51s
+Grille  244  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h14m54s
+Grille  245  p = 4  Buffer chaines: 169/50000  Risque = false  Duree cumulee = 0h15m5s
+Grille  246  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h15m6s
+Grille  247  p = 4  Buffer chaines: 223/50000  Risque = false  Duree cumulee = 0h15m17s
+Grille  248  p = 4  Buffer chaines: 195/50000  Risque = false  Duree cumulee = 0h15m30s
+Grille  249  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h15m35s
+Grille  250  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h15m40s
+Grille  251  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h15m45s
+Grille  252  p = 4  Buffer chaines: 151/50000  Risque = false  Duree cumulee = 0h15m59s
+Grille  253  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h16m2s
+Grille  254  p = 4  Buffer chaines: 226/50000  Risque = false  Duree cumulee = 0h16m19s
+Grille  255  p = 3  Buffer chaines: 45/50000  Risque = false  Duree cumulee = 0h16m29s
+Grille  256  p = 3  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 0h16m40s
+Grille  257  p = 4  Buffer chaines: 78/50000  Risque = false  Duree cumulee = 0h16m45s
+Grille  258  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h16m46s
+Grille  259  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h16m50s
+Grille  260  p = 4  Buffer chaines: 158/50000  Risque = false  Duree cumulee = 0h17m1s
+Grille  261  p = 3  Buffer chaines: 58/50000  Risque = false  Duree cumulee = 0h17m10s
+Grille  262  p = 4  Buffer chaines: 193/50000  Risque = false  Duree cumulee = 0h17m27s
+Grille  263  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h17m32s
+Grille  264  p = 4  Buffer chaines: 215/50000  Risque = false  Duree cumulee = 0h17m44s
+Grille  265  p = 3  Buffer chaines: 14/50000  Risque = false  Duree cumulee = 0h17m46s
+Grille  266  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h17m47s
+Grille  267  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h17m50s
+Grille  268  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h18m0s
+Grille  269  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h18m8s
+Grille  270  p = 3  Buffer chaines: 51/50000  Risque = false  Duree cumulee = 0h18m15s
+Grille  271  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h18m17s
+Grille  272  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h18m20s
+Grille  273  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h18m23s
+Grille  274  p = 3  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h18m45s
+Grille  275  p = 4  Buffer chaines: 216/50000  Risque = false  Duree cumulee = 0h19m10s
+Grille  276  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h19m11s
+Grille  277  p = 4  Buffer chaines: 218/50000  Risque = false  Duree cumulee = 0h19m21s
+Grille  278  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h19m23s
+Grille  279  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h19m29s
+Grille  280  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h19m30s
+Grille  281  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h19m32s
+Grille  282  p = 3  Buffer chaines: 50/50000  Risque = false  Duree cumulee = 0h19m34s
+Grille  283  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h19m36s
+Grille  284  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h19m47s
+Grille  285  p = 4  Buffer chaines: 161/50000  Risque = false  Duree cumulee = 0h19m57s
+Grille  286  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h19m58s
+Grille  287  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h20m2s
+Grille  288  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h20m22s
+Grille  289  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h20m25s
+Grille  290  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h20m29s
+Grille  291  p = 4  Buffer chaines: 303/50000  Risque = false  Duree cumulee = 0h20m49s
+Grille  292  p = 4  Buffer chaines: 165/50000  Risque = false  Duree cumulee = 0h20m59s
+Grille  293  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h21m0s
+Grille  294  p = 4  Buffer chaines: 98/50000  Risque = false  Duree cumulee = 0h21m6s
+Grille  295  p = 4  Buffer chaines: 145/50000  Risque = false  Duree cumulee = 0h21m19s
+Grille  296  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h21m21s
+Grille  297  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h21m22s
+Grille  298  p = 4  Buffer chaines: 184/50000  Risque = false  Duree cumulee = 0h21m38s
+Grille  299  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h21m41s
+Grille  300  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h21m47s
+Grille  301  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h21m51s
+Grille  302  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h21m52s
+Grille  303  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h21m54s
+Grille  304  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h21m58s
+Grille  305  p = 4  Buffer chaines: 121/50000  Risque = false  Duree cumulee = 0h22m2s
+Grille  306  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h22m4s
+Grille  307  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h22m6s
+Grille  308  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h22m12s
+Grille  309  p = 3  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 0h22m14s
+Grille  310  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h22m15s
+Grille  311  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h22m18s
+Grille  312  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h22m21s
+Grille  313  p = 4  Buffer chaines: 261/50000  Risque = false  Duree cumulee = 0h22m36s
+Grille  314  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h22m39s
+Grille  315  p = 4  Buffer chaines: 115/50000  Risque = false  Duree cumulee = 0h22m48s
+Grille  316  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h22m57s
+Grille  317  p = 3  Buffer chaines: 51/50000  Risque = false  Duree cumulee = 0h23m10s
+Grille  318  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h23m12s
+Grille  319  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h23m16s
+Grille  320  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h23m17s
+Grille  321  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h23m20s
+Grille  322  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h23m22s
+Grille  323  p = 4  Buffer chaines: 127/50000  Risque = false  Duree cumulee = 0h23m32s
+Grille  324  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h23m32s
+Grille  325  p = 4  Buffer chaines: 320/50000  Risque = false  Duree cumulee = 0h23m47s
+Grille  326  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h23m48s
+Grille  327  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h24m1s
+Grille  328  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h24m1s
+Grille  329  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h24m3s
+Grille  330  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h24m5s
+Grille  331  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h24m5s
+Grille  332  p = 4  Buffer chaines: 52/50000  Risque = false  Duree cumulee = 0h24m11s
+Grille  333  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h24m12s
+Grille  334  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h24m14s
+Grille  335  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h24m18s
+Grille  336  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h24m20s
+Grille  337  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h24m30s
+Grille  338  p = 4  Buffer chaines: 218/50000  Risque = false  Duree cumulee = 0h24m44s
+Grille  339  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h24m47s
+Grille  340  p = 3  Buffer chaines: 16/50000  Risque = false  Duree cumulee = 0h24m50s
+Grille  341  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h24m51s
+Grille  342  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h24m53s
+Grille  343  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h25m1s
+Grille  344  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h25m2s
+Grille  345  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h25m4s
+Grille  346  p = 3  Buffer chaines: 51/50000  Risque = false  Duree cumulee = 0h25m15s
+Grille  347  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h25m19s
+Grille  348  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h25m21s
+Grille  349  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h25m22s
+Grille  350  p = 4  Buffer chaines: 165/50000  Risque = false  Duree cumulee = 0h25m30s
+Grille  351  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h25m32s
+Grille  352  p = 4  Buffer chaines: 192/50000  Risque = false  Duree cumulee = 0h25m54s
+Grille  353  p = 4  Buffer chaines: 93/50000  Risque = false  Duree cumulee = 0h25m59s
+Grille  354  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h26m15s
+Grille  355  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h26m18s
+Grille  356  p = 3  Buffer chaines: 51/50000  Risque = false  Duree cumulee = 0h26m25s
+Grille  357  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h26m26s
+Grille  358  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h26m29s
+Grille  359  p = 3  Buffer chaines: 17/50000  Risque = false  Duree cumulee = 0h26m31s
+Grille  360  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h26m32s
+Grille  361  p = 3  Buffer chaines: 80/50000  Risque = false  Duree cumulee = 0h26m42s
+Grille  362  p = 4  Buffer chaines: 253/50000  Risque = false  Duree cumulee = 0h26m50s
+Grille  363  p = 4  Buffer chaines: 192/50000  Risque = false  Duree cumulee = 0h26m58s
+Grille  364  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h27m3s
+Grille  365  p = 3  Buffer chaines: 37/50000  Risque = false  Duree cumulee = 0h27m6s
+Grille  366  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h27m10s
+Grille  367  p = 3  Buffer chaines: 26/50000  Risque = false  Duree cumulee = 0h27m12s
+Grille  368  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h27m12s
+Grille  369  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h27m14s
+Grille  370  p = 3  Buffer chaines: 43/50000  Risque = false  Duree cumulee = 0h27m19s
+Grille  371  p = 3  Buffer chaines: 59/50000  Risque = false  Duree cumulee = 0h27m26s
+Grille  372  p = 2  Buffer chaines: 12/50000  Risque = false  Duree cumulee = 0h27m32s
+Grille  373  p = 3  Buffer chaines: 49/50000  Risque = false  Duree cumulee = 0h27m36s
+Grille  374  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h27m41s
+Grille  375  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h27m44s
+Grille  376  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h27m47s
+Grille  377  p = 3  Buffer chaines: 12/50000  Risque = false  Duree cumulee = 0h27m48s
+Grille  378  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h27m50s
+Grille  379  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h28m2s
+Grille  380  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h28m6s
+Grille  381  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h28m9s
+Grille  382  p = 3  Buffer chaines: 48/50000  Risque = false  Duree cumulee = 0h28m20s
+Grille  383  p = 3  Buffer chaines: 53/50000  Risque = false  Duree cumulee = 0h28m23s
+Grille  384  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h28m26s
+Grille  385  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h28m27s
+Grille  386  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h28m41s
+Grille  387  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h28m42s
+Grille  388  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h28m44s
+Grille  389  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h28m46s
+Grille  390  p = 3  Buffer chaines: 45/50000  Risque = false  Duree cumulee = 0h28m52s
+Grille  391  p = 4  Buffer chaines: 433/50000  Risque = false  Duree cumulee = 0h29m3s
+Grille  392  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h29m6s
+Grille  393  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h29m11s
+Grille  394  p = 3  Buffer chaines: 65/50000  Risque = false  Duree cumulee = 0h29m17s
+Grille  395  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 0h29m19s
+Grille  396  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h29m21s
+Grille  397  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h29m33s
+Grille  398  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h29m37s
+Grille  399  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h29m44s
+Grille  400  p = 4  Buffer chaines: 199/50000  Risque = false  Duree cumulee = 0h29m51s
+Grille  401  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h30m0s
+Grille  402  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h30m2s
+Grille  403  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h30m12s
+Grille  404  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h30m13s
+Grille  405  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h30m16s
+Grille  406  p = 3  Buffer chaines: 31/50000  Risque = false  Duree cumulee = 0h30m17s
+Grille  407  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h30m20s
+Grille  408  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h30m21s
+Grille  409  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h30m28s
+Grille  410  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h30m35s
+Grille  411  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h30m40s
+Grille  412  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h30m42s
+Grille  413  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h30m43s
+Grille  414  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h30m43s
+Grille  415  p = 3  Buffer chaines: 33/50000  Risque = false  Duree cumulee = 0h30m46s
+Grille  416  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h30m46s
+Grille  417  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h30m49s
+Grille  418  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h30m57s
+Grille  419  p = 3  Buffer chaines: 44/50000  Risque = false  Duree cumulee = 0h31m8s
+Grille  420  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h31m10s
+Grille  421  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h31m13s
+Grille  422  p = 3  Buffer chaines: 24/50000  Risque = false  Duree cumulee = 0h31m15s
+Grille  423  p = 3  Buffer chaines: 64/50000  Risque = false  Duree cumulee = 0h31m24s
+Grille  424  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h31m24s
+Grille  425  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h31m32s
+Grille  426  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h31m36s
+Grille  427  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h31m42s
+Grille  428  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h31m44s
+Grille  429  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h31m55s
+Grille  430  p = 3  Buffer chaines: 39/50000  Risque = false  Duree cumulee = 0h32m2s
+Grille  431  p = 3  Buffer chaines: 44/50000  Risque = false  Duree cumulee = 0h32m10s
+Grille  432  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h32m12s
+Grille  433  p = 4  Buffer chaines: 162/50000  Risque = false  Duree cumulee = 0h32m30s
+Grille  434  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h32m31s
+Grille  435  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h32m31s
+Grille  436  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h32m32s
+Grille  437  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h32m37s
+Grille  438  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h32m42s
+Grille  439  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h32m45s
+Grille  440  p = 3  Buffer chaines: 36/50000  Risque = false  Duree cumulee = 0h32m52s
+Grille  441  p = 3  Buffer chaines: 15/50000  Risque = false  Duree cumulee = 0h32m53s
+Grille  442  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h32m55s
+Grille  443  p = 2  Buffer chaines: 4/50000  Risque = false  Duree cumulee = 0h32m55s
+Grille  444  p = 3  Buffer chaines: 19/50000  Risque = false  Duree cumulee = 0h33m0s
+Grille  445  p = 3  Buffer chaines: 22/50000  Risque = false  Duree cumulee = 0h33m5s
+Grille  446  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h33m9s
+Grille  447  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h33m9s
+Grille  448  p = 3  Buffer chaines: 27/50000  Risque = false  Duree cumulee = 0h33m11s
+Grille  449  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h33m13s
+Grille  450  p = 3  Buffer chaines: 46/50000  Risque = false  Duree cumulee = 0h33m17s
+Grille  451  p = 3  Buffer chaines: 45/50000  Risque = false  Duree cumulee = 0h33m18s
+Grille  452  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h33m19s
+Grille  453  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h33m21s
+Grille  454  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h33m24s
+Grille  455  p = 3  Buffer chaines: 25/50000  Risque = false  Duree cumulee = 0h33m26s
+Grille  456  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h33m27s
+Grille  457  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h33m27s
+Grille  458  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h33m28s
+Grille  459  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h33m31s
+Grille  460  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h33m32s
+Grille  461  p = 2  Buffer chaines: 8/50000  Risque = false  Duree cumulee = 0h33m33s
+Grille  462  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h33m33s
+Grille  463  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h33m35s
+Grille  464  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h33m47s
+Grille  465  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h33m49s
+Grille  466  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h33m51s
+Grille  467  p = 3  Buffer chaines: 35/50000  Risque = false  Duree cumulee = 0h33m55s
+Grille  468  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h33m59s
+Grille  469  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h34m0s
+Grille  470  p = 3  Buffer chaines: 42/50000  Risque = false  Duree cumulee = 0h34m5s
+Grille  471  p = 4  Buffer chaines: 168/50000  Risque = false  Duree cumulee = 0h34m27s
+Grille  472  p = 3  Buffer chaines: 38/50000  Risque = false  Duree cumulee = 0h34m29s
+Grille  473  p = 3  Buffer chaines: 40/50000  Risque = false  Duree cumulee = 0h34m36s
+Grille  474  p = 3  Buffer chaines: 41/50000  Risque = false  Duree cumulee = 0h34m41s
+Grille  475  p = 3  Buffer chaines: 47/50000  Risque = false  Duree cumulee = 0h34m46s
+Grille  476  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h34m48s
+Grille  477  p = 3  Buffer chaines: 30/50000  Risque = false  Duree cumulee = 0h34m54s
+Grille  478  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h34m55s
+Grille  479  p = 3  Buffer chaines: 29/50000  Risque = false  Duree cumulee = 0h34m56s
+Grille  480  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h35m1s
+Grille  481  p = 3  Buffer chaines: 13/50000  Risque = false  Duree cumulee = 0h35m3s
+Grille  482  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h35m7s
+Grille  483  p = 4  Buffer chaines: 162/50000  Risque = false  Duree cumulee = 0h35m16s
+Grille  484  p = 2  Buffer chaines: 10/50000  Risque = false  Duree cumulee = 0h35m20s
+Grille  485  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h35m21s
+Grille  486  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h35m23s
+Grille  487  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h35m25s
+Grille  488  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h35m26s
+Grille  489  p = 3  Buffer chaines: 20/50000  Risque = false  Duree cumulee = 0h35m28s
+Grille  490  p = 2  Buffer chaines: 6/50000  Risque = false  Duree cumulee = 0h35m30s
+Grille  491  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h35m32s
+Grille  492  p = 2  Buffer chaines: 7/50000  Risque = false  Duree cumulee = 0h35m34s
+Grille  493  p = 3  Buffer chaines: 34/50000  Risque = false  Duree cumulee = 0h35m39s
+Grille  494  p = 2  Buffer chaines: 5/50000  Risque = false  Duree cumulee = 0h35m40s
+Grille  495  p = 4  Buffer chaines: 166/50000  Risque = false  Duree cumulee = 0h35m57s
+Grille  496  p = 2  Buffer chaines: 9/50000  Risque = false  Duree cumulee = 0h35m59s
+Grille  497  p = 3  Buffer chaines: 28/50000  Risque = false  Duree cumulee = 0h36m0s
+Grille  498  p = 2  Buffer chaines: 11/50000  Risque = false  Duree cumulee = 0h36m2s
+Grille  499  p = 3  Buffer chaines: 23/50000  Risque = false  Duree cumulee = 0h36m5s
+Grille  500  p = 3  Buffer chaines: 32/50000  Risque = false  Duree cumulee = 0h36m15s
+Nombre de grilles traitees: 500
+Nombre de grilles non resolues: 0
+
