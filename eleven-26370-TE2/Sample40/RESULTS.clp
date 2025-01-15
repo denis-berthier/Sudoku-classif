@@ -45,7 +45,7 @@
     ?*sample*
     (str-cat ?*TE2-EL* "Sample40/solutions.txt")
 )
-(extract-data-in-list
+(extract-data-from-lines-in-list
     (str-cat ?*TE2-EL* "BxB.txt"
     26370
     ?*sample*
